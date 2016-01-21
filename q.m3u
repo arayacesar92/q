@@ -18,7 +18,7 @@ http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 tvg-logo="mtv.png",MTV
 http://tvultimate.ddns.net/LIVE/H01/CANAL726/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="a&e.png",A&E 
-http://tvultimate.ddns.net/LIVE/H01/CANAL211/PROFILE03.m3u8?tvultimate=%2F.ts
+http://iptvcanales.com/xw/cable.php?canal=26&player=playlist.m3u8
 #EXTINF:-1 tvg-logo="!e.png",E! 
 http://tvultimate.ddns.net/LIVE/H01/CANAL255/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="Latino-SYFY.png",SyFy
