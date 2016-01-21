@@ -59,6 +59,8 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL312/PROFILE03.m3u8?tvultimate=%2F.ts
 http://tvultimate.ddns.net/LIVE/H01/CANAL268/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="!e.png",E! 
 http://tvultimate.ddns.net/LIVE/H01/CANAL255/PROFILE03.m3u8?tvultimate=%2F.ts
+#EXTINF:-1 group-title="ANIME",Anime Tv
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1 tvg-logo="nicktoons.png",NickToons
 http://tvultimate.ddns.net/LIVE/H01/CANAL314/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="nickelodeon.png",Nickelodeon
