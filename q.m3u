@@ -18,9 +18,9 @@ http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:-1 group-title="CINE",Universal Movies
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1 tvg-logo="mtv.png",MTV
-#EXTINF:-1 tvg-logo="de-pelicula.png",De PelÃ­cula
-http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?supertvlat=%2F.ts
 http://tvultimate.ddns.net/LIVE/H01/CANAL726/PROFILE03.m3u8?tvultimate=%2F.ts
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,EDGE
+http://200.76.77.237/LIVE/H01/CANAL484/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 #EXTINF:-1 tvg-logo="Latino-SYFY.png",SyFy
 http://tvultimate.ddns.net/LIVE/H01/CANAL257/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="id.png",ID
