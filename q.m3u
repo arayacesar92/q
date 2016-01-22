@@ -23,6 +23,8 @@ http://vemoxhlslive-i.akamaihd.net:80/hls/live/219940/vemoxchannel1/iOS/vemoxcha
 http://tvultimate.ddns.net/LIVE/H01/CANAL726/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1,I.SAT
 http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
+#EXTINF:-1,TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:-1 group-title="ANIME",Anime Tv
 http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
 #EXTINF:-1 tvg-logo="Latino-SYFY.png",SyFy
