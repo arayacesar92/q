@@ -22,11 +22,11 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL726/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1,TLC
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:-1 tvg-logo="Latino-SYFY.png",SyFy
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,H&H DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
 http://tvultimate.ddns.net/LIVE/H01/CANAL257/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="space hd.png",Space
 http://tvultimate.ddns.net/LIVE/H01/CANAL491/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="id.png",ID
-http://tvultimate.ddns.net/LIVE/H01/CANAL263/PROFILE02.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="tnt.png",TNT
 http://tvultimate.ddns.net/LIVE/H01/CANAL482/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="cinecanal.png",Cinecanal
@@ -37,12 +37,14 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL481/PROFILE03.m3u8?tvultimate=%2F.ts
 http://tvultimate.ddns.net/LIVE/H01/CANAL484/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="sat.1 hd.png",I.Sat
 http://tvultimate.ddns.net/LIVE/H01/CANAL726/PROFILE03.m3u8?tvultimate=%2F.ts
+#EXTINF:-1 tvg-logo="studio universal.png",Studio Universal
+http://tvultimate.ddns.net/LIVE/H01/CANAL492/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 group-title="CINE",Universal Movies
 http://iphone-streaming.ustream.tv/uhls/18654330/streams/live/iphone/playlist.m3u8?
 #EXTINF:-1,I.SAT
 http://200.76.77.237/LIVE/H01/CANAL495/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1 group-title="ANIME",Anime Tv
-http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8?monclovacaliente.m3u8
+#EXTINF:-1 tvg-logo="id.png",ID
+http://tvultimate.ddns.net/LIVE/H01/CANAL263/PROFILE02.m3u8?tvultimate=%2F.ts
 #EXTINF:-1,AMC
 http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1cin
 #EXTINF:-1 tvg-logo="discovery channel.png",Discovery Channel
@@ -61,8 +63,6 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL382/PROFILE03.m3u8?tvultimate=%2F.ts
 http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:-1 tvg-logo="turbo dis.png",Discovery Turbo
 http://tvultimate.ddns.net/LIVE/H01/CANAL383/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="studio universal.png",Studio Universal
-http://tvultimate.ddns.net/LIVE/H01/CANAL492/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="disney channel.png",Disney Channel
 http://tvultimate.ddns.net/LIVE/H01/CANAL312/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="el gourmet.png",El Gourmet
