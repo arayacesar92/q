@@ -24,9 +24,9 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL726/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1,TLC
 http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:-1 tvg-logo="Latino-SYFY.png",SyFy
+http://tvultimate.ddns.net/LIVE/H01/CANAL257/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/thumbCTV01_zpsxtidvedq.png" group-title="Premium GENEIPTV" ,H&H DISCOVERY
 http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts
-http://tvultimate.ddns.net/LIVE/H01/CANAL257/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="space hd.png",Space
 http://tvultimate.ddns.net/LIVE/H01/CANAL491/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="tnt.png",TNT
@@ -37,8 +37,6 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL480/PROFILE03.m3u8?tvultimate=%2F.ts
 http://tvultimate.ddns.net/LIVE/H01/CANAL481/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="golden edge.png",Golden Edge
 http://tvultimate.ddns.net/LIVE/H01/CANAL484/PROFILE03.m3u8?tvultimate=%2F.ts
-#EXTINF:-1 tvg-logo="sat.1 hd.png",I.Sat
-http://tvultimate.ddns.net/LIVE/H01/CANAL726/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="studio universal.png",Studio Universal
 http://tvultimate.ddns.net/LIVE/H01/CANAL492/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 group-title="CINE",Universal Movies
