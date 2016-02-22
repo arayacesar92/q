@@ -23,6 +23,8 @@ http://tvultimate.mx/stream/tvultimate.php?id=117
 http://tvultimate.mx/stream/tvultimate.php?id=290
 #EXTINF:-1 tvg-logo="tnt hd.png",TNT
 http://tvultimate.mx/stream/tvultimate.php?id=313
+#EXTINF:-1 tvg-logo="mtv.png",MTV
+http://tvultimate.mx/stream/tvultimate.php?id=441
 #EXTINF:0, MEGA 240p
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b400.m3u8
 #EXTINF:0, Canal 13 Internet 540p
