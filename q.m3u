@@ -13,6 +13,8 @@ http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 group-title="Canales Chile", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:0, Telecanal 268p
+http://movilstream.digitalproserver.com/tcsc/tcscvivo/livestream2/playlist.m3u8
 #EXTINF:-1 tvg-logo="canal 5 HD.png",Canal 5
 http://tvultimate.ddns.net/LIVE/H01/CANAL105/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 group-title="PREMIUM GENEIPTV",COMEDY CENTRAL
@@ -81,3 +83,11 @@ http://tvultimate.ddns.net/LIVE/H01/CANAL320/PROFILE03.m3u8?tvultimate=%2F.ts
 http://tvultimate.ddns.net/LIVE/H01/CANAL322/PROFILE03.m3u8?tvultimate=%2F.ts
 #EXTINF:-1 tvg-logo="boomerang.png",Boomerang
 http://tvultimate.ddns.net/LIVE/H01/CANAL324/PROFILE03.m3u8?tvultimate=%2F.ts
+#EXTINF:0, MEGA 240p
+http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b400.m3u8
+#EXTINF:0, Canal 13 Internet 540p
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:0, Chilevision Internet 432p 1
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:0, Chilevision Internet 432p 2
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
