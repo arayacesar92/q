@@ -51,16 +51,8 @@ rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
 http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
 #EXTINF:-1,TELEMAX
 http://enhd.co:1935/ilive/ilive/playlist.m3u8?
-#EXTINF:-1,Canal 2 YAQUI TV
-http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w1075509085.m3u8
-#EXTINF:-1,Canal 66 Mexicali
-http://canal44-lh.akamaihd.net/i/ch_mexicali@325633/master.m3u8
 #EXTINF:-1,Viajar  Argentina
 http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1,Magazine Argentina
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-#EXTINF:-1,TN Canal Argentina
-rtsp://stream.tn.com.ar/live/tnhd1
 #EXTINF:-1,C5N Argentina
 rtmp://c5n.stweb.tv:1935/c5n/live
 #EXTINF:-1,Telpin Tv Argentina
