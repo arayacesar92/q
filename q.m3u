@@ -17,12 +17,6 @@ http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 group-title="Canales Chile", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:0, Canal 13 Internet 540p
-http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:0, Chilevision Internet 432p 1
-http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
-#EXTINF:0, Chilevision Internet 432p 2
-http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 #EXTINF:-1,CANAL 2 Mochis TV
 http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w1461112480.m3u8
 #EXTINF:-1,CANAL DE LAS ESTRELLAS
@@ -33,36 +27,14 @@ http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
 http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
 #EXTINF:-1,Canal 22
 rtmp://192.96.217.230/live/smrtv.sdp
-#EXTINF:-1,TELEMAR Campeche
-http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8?
-#EXTINF:-1,TRC Campeche
-rtmp://video7.stream.mx:1935/8024/8024
 #EXTINF:-1,Canal 10 Chiapas
 rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
-#EXTINF:-1,CANAL 53 UANL TV
-mms://streaming.uanl.mx/canal53bandaancha
 #EXTINF:-1,Michoacan al dia
 rtmp://video7.stream.mx:1935/8016/8016
-#EXTINF:-1,Canal Nuestra Vision Michoacan
-http://video7.stream.mx:1935/8032/8032/chunklist_w1286789486.m3u8
-#EXTINF:-1,Canal 5 Salina Cruz
-http://play.gvstream.net:554/e-tv-video/default.stream/chunklist_w316615179.m3u8
-#EXTINF:-1,Canal 10 Durango
-rtmp://wms.tecnoxia.com:80/8096//8096
-#EXTINF:-1,5 TV Coahuila
-http://play.gvstream.net:554/e-tv-video/default.stream/playlist.m3u8
 #EXTINF:-1,RCG TV Coahuila
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1,TV Acapulco
-rtmp://stream.hosteris.com/tvacapulco/tvacapulco
-#EXTINF:-1,C7 Guadalajara
-http://74.63.97.188:1935/c7/videoc7/master.m3u8
 #EXTINF:-1,Cultura Guadalajara
 http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
-#EXTINF:-1,2 TV Morelia
-http://iphone-streaming.ustream.tv/ustreamVideo/13946965/streams/live/playlist.m3u8
-#EXTINF:-1,Multimedios Nuevo León
-http://brightcovelive-i.akamaihd.net/hls/live/200018/bcplay-live/Multi/Multimedios.m3u8
 #EXTINF:-1,Canal Once
 http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
 #EXTINF:-1,5 TV Tlaxcala
@@ -125,3 +97,9 @@ rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
 #EXTINF:-1,C5N Argentina
 rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:0, Canal 13 Internet 540p
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:0, Chilevision Internet 432p 1
+http://live.hls.http.chv.ztreaming.com/chvhddesktop/chv-desktop.m3u8
+#EXTINF:0, Chilevision Internet 432p 2
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8te
