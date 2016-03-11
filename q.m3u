@@ -17,32 +17,6 @@ http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 group-title="Canales Chile", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1,SP: FOX FAMILY
-http://cms.cyntel.co:8000/live/bavaria/bavaria/2577.ts
-#EXTINF:-1,SP: HBO LATINO
-http://cms.cyntel.co:8000/live/bavaria/bavaria/2573.ts
-#EXTINF:-1,SP: NAT GEO
-http://cms.cyntel.co:8000/live/bavaria/bavaria/1508.ts
-#EXTINF:-1,SP: NAT GEO WILD
-http://cms.cyntel.co:8000/live/bavaria/bavaria/1509.ts
-#EXTINF:-1,SP: CANAL+ ACCION HD
-http://cms.cyntel.co:8000/live/bavaria/bavaria/2595.ts
-#EXTINF:-1,SP: CANAL+ COMEDIA HD
-http://cms.cyntel.co:8000/live/bavaria/bavaria/2596.ts
-#EXTINF:-1,SP: CANAL+ DCINE HD
-http://cms.cyntel.co:8000/live/bavaria/bavaria/2597.ts
-#EXTINF:-1,SP: CANAL+ HD
-http://cms.cyntel.co:8000/live/bavaria/bavaria/2594.ts
-#EXTINF:-1,SP: HOLLYWOOD
-http://cms.cyntel.co:8000/live/bavaria/bavaria/1483.ts
-#EXTINF:-1,SP: AXN WHITE
-http://cms.cyntel.co:8000/live/bavaria/bavaria/1493.ts
-#EXTINF:-1,SP: TNT
-http://cms.cyntel.co:8000/live/bavaria/bavaria/1484.ts
-#EXTINF:-1,SP: SYFY
-http://cms.cyntel.co:8000/live/bavaria/bavaria/1494.ts
-#EXTINF:-1,SP: CALLE 13
-http://cms.cyntel.co:8000/live/bavaria/bavaria/1495.ts
 #EXTINF:-1,CANAL 2 Mochis TV
 http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w1461112480.m3u8
 #EXTINF:-1,Canal Once
