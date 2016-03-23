@@ -17,6 +17,8 @@ http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 group-title="Canales Chile", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1, tvg-name="Gold" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1413.png", Gold
+http://www.tudandy.com/demoface.php?id=2849&f=.m3u8
 #EXTINF:-1,CANAL 2 Mochis TV
 http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w1461112480.m3u8
 #EXTINF:-1,Canal Once
