@@ -17,309 +17,371 @@ http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 group-title="Canales Chile", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1, tvg-name="A&E Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/43.png", A&E Latinoamerica
-http://www.tudandy.com/demoface.php?id=258&f=.m3u8
-#EXTINF:-1, tvg-name="Investigation Discovery Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/147.png", Investigation Discovery Latinoamerica
-http://www.tudandy.com/demoface.php?id=455&f=.m3u8
-#EXTINF:-1, tvg-name="TLC Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/149.png", TLC Latinoamerica
-http://www.tudandy.com/demoface.php?id=327&f=.m3u8
-
-#EXTINF:-1, tvg-name="Discovery Home & Health Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/44.png", Discovery Home & Health Latinoamerica
-http://www.tudandy.com/demoface.php?id=252&f=.m3u8
-#EXTINF:-1, tvg-name="H2 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/119.png", H2 Latinoamerica
-http://www.tudandy.com/demoface.php?id=297&f=.m3u8
-#EXTINF:-1, tvg-name="History en Español" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/219.png", History en Español
-http://www.tudandy.com/demoface.php?id=3704&f=.m3u8
-#EXTINF:-1, tvg-name="National Geographic Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/217.png", National Geographic Latinoamerica
-http://www.tudandy.com/demoface.php?id=395&f=.m3u8
-#EXTINF:-1, tvg-name="Nat Geo Wild Latino America" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/35.png", Nat Geo Wild Latino America
-http://www.tudandy.com/demoface.php?id=254&f=.m3u8
-#EXTINF:-1, tvg-name="Animal Planet Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/121.png", Animal Planet Latinoamerica
-http://www.tudandy.com/demoface.php?id=441&f=.m3u8
-#EXTINF:-1, tvg-name="AXN Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/833.png", AXN Latinoamerica
-http://www.tudandy.com/demoface.php?id=2493&f=.m3u8
-#EXTINF:-1, tvg-name="Discovery en Español" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1333.png", Discovery en Español
-http://www.tudandy.com/demoface.php?id=3531&f=.m3u8
-
-#EXTINF:-1, tvg-name="Canal Sony" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/837.png", Canal Sony
-http://www.tudandy.com/demoface.php?id=2501&f=.m3u8
-#EXTINF:-1, tvg-name="BBC Entertainment Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/805.png", BBC Entertainment Latinoamerica
-http://www.tudandy.com/demoface.php?id=1407&f=.m3u8
-#EXTINF:-1, tvg-name="Unicable" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1393.png", Unicable
-http://www.tudandy.com/demoface.php?id=3804&f=.m3u8
-#EXTINF:-1, tvg-name="Warner Channel Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/839.png", Warner Channel Latinoamerica
-http://www.tudandy.com/demoface.php?id=2499&f=.m3u8
-#EXTINF:-1, tvg-name="E! Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/141.png", E! Latinoamerica
-http://www.tudandy.com/demoface.php?id=427&f=.m3u8
-#EXTINF:-1, tvg-name="TNT America Latina" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/37.png", TNT America Latina
-http://www.tudandy.com/demoface.php?id=9042&f=.m3u8
-#EXTINF:-1, tvg-name="CineCanal" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/841.png", CineCanal
-http://www.tudandy.com/demoface.php?id=2495&f=.m3u8
-#EXTINF:-1, tvg-name="Cinemax Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/165.png", Cinemax Latinoamerica
-http://www.tudandy.com/demoface.php?id=343&f=.m3u8
-#EXTINF:-1, tvg-name="SPACE" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/835.png", SPACE
-http://www.tudandy.com/demoface.php?id=2489&f=.m3u8
-#EXTINF:-1, tvg-name="AMC" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/229.png", AMC
-http://www.tudandy.com/demoface.php?id=485&f=.m3u8
-#EXTINF:-1, tvg-name="Studio Universal" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/167.png", Studio Universal
-http://www.tudandy.com/demoface.php?id=345&f=.m3u8
-#EXTINF:-1, tvg-name="TCM America Latina" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/225.png", TCM America Latina
-http://www.tudandy.com/demoface.php?id=481&f=.m3u8
-#EXTINF:-1, tvg-name="I-Sat" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/947.png", I-Sat
-http://www.tudandy.com/demoface.php?id=1703&f=.m3u8
-#EXTINF:-1, tvg-name="Europa Europa" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/941.png", Europa Europa
-http://www.tudandy.com/demoface.php?id=1597&f=.m3u8
-#EXTINF:-1, tvg-name="Film & Arts Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/943.png", Film & Arts Latinoamerica
-http://www.tudandy.com/demoface.php?id=1599&f=.m3u8
-#EXTINF:-1, tvg-name="Film Zone" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/169.png", Film Zone
-http://www.tudandy.com/demoface.php?id=1055&f=.m3u8
-#EXTINF:-1, tvg-name="Fox 1 Este" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/171.png", Fox 1 Este
-http://www.tudandy.com/demoface.php?id=433&f=.m3u8
-#EXTINF:-1, tvg-name="Fox 1 Oeste" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/211.png", Fox 1 Oeste
-http://www.tudandy.com/demoface.php?id=439&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Family" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/173.png", Fox Family
-http://www.tudandy.com/demoface.php?id=467&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Comedy" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/175.png", Fox Comedy
-http://www.tudandy.com/demoface.php?id=461&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Cinema" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/177.png", Fox Cinema
-http://www.tudandy.com/demoface.php?id=457&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Action Este" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/179.png", Fox Action Este
-http://www.tudandy.com/demoface.php?id=435&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Action Oeste" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/181.png", Fox Action Oeste
-http://www.tudandy.com/demoface.php?id=437&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Movies Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/183.png", Fox Movies Latinoamerica
-http://www.tudandy.com/demoface.php?id=463&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Classics Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/185.png", Fox Classics Latinoamerica
-http://www.tudandy.com/demoface.php?id=465&f=.m3u8
-#EXTINF:-1, tvg-name="HBO Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/207.png", HBO Latinoamerica
-http://www.tudandy.com/demoface.php?id=385&f=.m3u8
-#EXTINF:-1, tvg-name="HBO 2 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/187.png", HBO 2 Latinoamerica
-http://www.tudandy.com/demoface.php?id=365&f=.m3u8
-#EXTINF:-1, tvg-name="HBO Plus Este" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/189.png", HBO Plus Este
-http://www.tudandy.com/demoface.php?id=453&f=.m3u8
-#EXTINF:-1, tvg-name="HBO Plus Oeste" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/191.png", HBO Plus Oeste
-http://www.tudandy.com/demoface.php?id=369&f=.m3u8
-#EXTINF:-1, tvg-name="HBO Family Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/193.png", HBO Family Latinoamerica
-http://www.tudandy.com/demoface.php?id=449&f=.m3u8
-#EXTINF:-1, tvg-name="HBO Signature Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/195.png", HBO Signature Latinoamerica
-http://www.tudandy.com/demoface.php?id=451&f=.m3u8
-#EXTINF:-1, tvg-name="Max UP Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/197.png", Max UP Latinoamerica
-http://www.tudandy.com/demoface.php?id=469&f=.m3u8
-#EXTINF:-1, tvg-name="Max Prime Este" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/199.png", Max Prime Este
-http://www.tudandy.com/demoface.php?id=377&f=.m3u8
-#EXTINF:-1, tvg-name="Max Prime Oeste" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/201.png", Max Prime Oeste
-http://www.tudandy.com/demoface.php?id=379&f=.m3u8
-#EXTINF:-1, tvg-name="MAX" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/203.png", MAX
-http://www.tudandy.com/demoface.php?id=381&f=.m3u8
-#EXTINF:-1, tvg-name="Golden Premier 1" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1787.png", Golden Premier 1
-http://www.tudandy.com/demoface.php?id=4777&f=.m3u8
-#EXTINF:-1, tvg-name="Golden Premier 2" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1782.png", Golden Premier 2
-http://www.tudandy.com/demoface.php?id=4772&f=.m3u8
-#EXTINF:-1, tvg-name="Star Plus" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2019.png", Star Plus
-http://www.tudandy.com/demoface.php?id=5784&f=.m3u8
-#EXTINF:-1, tvg-name="Colors" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2027.png", Colors
-http://www.tudandy.com/demoface.php?id=5792&f=.m3u8
-#EXTINF:-1, tvg-name="Zee TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2032.png", Zee TV
-http://www.tudandy.com/demoface.php?id=5797&f=.m3u8
-#EXTINF:-1, tvg-name="Sony" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2039.png", Sony
-http://www.tudandy.com/demoface.php?id=5804&f=.m3u8
-#EXTINF:-1, tvg-name="FX Latino" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/143.png", FX Latino
-http://www.tudandy.com/demoface.php?id=431&f=.m3u8
-#EXTINF:-1, tvg-name="Universal Channel America Latina" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/209.png", Universal Channel America Latina
-http://www.tudandy.com/demoface.php?id=387&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/821.png", Fox Latinoamerica
-http://www.tudandy.com/demoface.php?id=3947&f=.m3u8
-#EXTINF:-1, tvg-name="Syfy Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/145.png", Syfy Latinoamerica
-http://www.tudandy.com/demoface.php?id=447&f=.m3u8
-#EXTINF:-1, tvg-name="DW Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1095.png", DW Latinoamerica
-http://www.metafilegenerator.de/DWelle/tv-latinoamerica/ios/master.m3u8
-#EXTINF:-1, tvg-name="TV Globo Internacional" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/937.png", TV Globo Internacional
-http://www.tudandy.com/demoface.php?id=1593&f=.m3u8
-#EXTINF:-1, tvg-name="TV 5 Monde" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2014.png", TV 5 Monde
-http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
-#EXTINF:-1, tvg-name="Discovery Theater" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/29.png", Discovery Theater
-http://www.tudandy.com/demoface.php?id=3798&f=.m3u8
-#EXTINF:-1, tvg-name="Discovery World" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1493.png", Discovery World
-http://www.tudandy.com/demoface.php?id=3529&f=.m3u8
-#EXTINF:-1, tvg-name="ESPN Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/819.png", ESPN Latinoamerica
-http://www.tudandy.com/demoface.php?id=2487&f=.m3u8
-#EXTINF:-1, tvg-name="ESPN 2 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/123.png", ESPN 2 Latinoamerica
-http://www.tudandy.com/demoface.php?id=301&f=.m3u8
-#EXTINF:-1, tvg-name="ESPN 3 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/125.png", ESPN 3 Latinoamerica
-http://www.tudandy.com/demoface.php?id=3806&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Sports Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/831.png", Fox Sports Latinoamerica
-c
-#EXTINF:-1, tvg-name="Fox Sports 2 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/215.png", Fox Sports 2 Latinoamerica
-http://www.tudandy.com/demoface.php?id=475&f=.m3u8
-#EXTINF:-1, tvg-name="Fox Sports 3 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/127.png", Fox Sports 3 Latinoamerica
-http://www.tudandy.com/demoface.php?id=445&f=.m3u8
-#EXTINF:-1, tvg-name="F1 Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/969.png", F1 Latinoamerica
-http://www.tudandy.com/demoface.php?id=1695&f=.m3u8
-#EXTINF:-1, tvg-name="UFC Network Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/625.png", UFC Network Latinoamerica
-http://www.tudandy.com/demoface.php?id=9628&f=.m3u8
-#EXTINF:-1, tvg-name="BeinSports en Español" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1239.png", BeinSports en Español
-http://www.tudandy.com/demoface.php?id=2527&f=.m3u8
-#EXTINF:-1, tvg-name="Planeta Futbol" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/863.png", Planeta Futbol
-http://www.tudandy.com/demoface.php?id=1477&f=.m3u8
-#EXTINF:-1, tvg-name="TDN Mexico" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/635.png", TDN Mexico
-http://www.tudandy.com/demoface.php?id=1059&f=.m3u8
-#EXTINF:-1, tvg-name="Univision TDN" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/869.png", Univision TDN
-http://www.tudandy.com/demoface.php?id=1483&f=.m3u8
-#EXTINF:-1, tvg-name="DXTV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2854.png", DXTV
-http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
-#EXTINF:-1, tvg-name="Golf Channel Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/877.png", Golf Channel Latinoamerica
-http://www.tudandy.com/demoface.php?id=1489&f=.m3u8
-#EXTINF:-1, tvg-name="Disney Channel Norte" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/42.png", Disney Channel Norte
-http://www.tudandy.com/demoface.php?id=256&f=.m3u8
-#EXTINF:-1, tvg-name="Disney XD Norte" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/255.png", Disney XD Norte
-http://www.tudandy.com/demoface.php?id=499&f=.m3u8
-#EXTINF:-1, tvg-name="Disney Junior Norte" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/843.png", Disney Junior Norte
-http://www.tudandy.com/demoface.php?id=1455&f=.m3u8
-#EXTINF:-1, tvg-name="Nickelodeon Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/817.png", Nickelodeon Latinoamerica
-http://www.tudandy.com/demoface.php?id=1423&f=.m3u8
-#EXTINF:-1, tvg-name="Nick Jr Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/239.png", Nick Jr Latinoamerica
-http://www.tudandy.com/demoface.php?id=417&f=.m3u8
-#EXTINF:-1, tvg-name="Discovery Kids America Latina" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/131.png", Discovery Kids America Latina
-http://www.tudandy.com/demoface.php?id=309&f=.m3u8
-#EXTINF:-1, tvg-name="Cartoon Network Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/133.png", Cartoon Network Latinoamerica
-http://www.tudandy.com/demoface.php?id=421&f=.m3u8
-#EXTINF:-1, tvg-name="Boomerang Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/135.png", Boomerang Latinoamerica
-http://www.tudandy.com/demoface.php?id=2507&f=.m3u8
-#EXTINF:-1, tvg-name="CBeebies Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/609.png", CBeebies Latinoamerica
-http://www.tudandy.com/demoface.php?id=1029&f=.m3u8
-#EXTINF:-1, tvg-name="Tooncast" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/137.png", Tooncast
-http://www.tudandy.com/demoface.php?id=443&f=.m3u8
-#EXTINF:-1, tvg-name="Baby TV Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/139.png", Baby TV Latinoamerica
-http://www.tudandy.com/demoface.php?id=317&f=.m3u8
-#EXTINF:-1, tvg-name="Eurochannel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/939.png", Eurochannel
-http://www.tudandy.com/demoface.php?id=4912&f=.m3u8
-#EXTINF:-1, tvg-name="Mundo Max" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/2739.png", Mundo Max
-http://www.tudandy.com/demoface.php?id=7114&f=.m3u8
-#EXTINF:-1, tvg-name="MundoFox" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/151.png", MundoFox
-http://www.tudandy.com/demoface.php?id=429&f=.m3u8
-#EXTINF:-1, tvg-name="TNT Series Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/153.png", TNT Series Latinoamerica
-http://www.tudandy.com/demoface.php?id=331&f=.m3u8
-#EXTINF:-1, tvg-name="Elgourmet" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/613.png", Elgourmet
-http://www.tudandy.com/demoface.php?id=1033&f=.m3u8
-#EXTINF:-1, tvg-name="Casa Club TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/861.png", Casa Club TV
-http://www.tudandy.com/demoface.php?id=1475&f=.m3u8
-#EXTINF:-1, tvg-name="TBS America Latina" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/155.png", TBS America Latina
-http://www.tudandy.com/demoface.php?id=333&f=.m3u8
-#EXTINF:-1, tvg-name="Glitz Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/859.png", Glitz Latinoamerica
-http://www.tudandy.com/demoface.php?id=1473&f=.m3u8
-#EXTINF:-1, tvg-name="FOX Life" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/157.png", FOX Life
-http://www.tudandy.com/demoface.php?id=425&f=.m3u8
-#EXTINF:-1, tvg-name="Distrito Comedia" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/879.png", Distrito Comedia
-http://www.tudandy.com/demoface.php?id=1491&f=.m3u8
-#EXTINF:-1, tvg-name="Comedy Central Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/617.png", Comedy Central Latinoamerica
-http://www.tudandy.com/demoface.php?id=1037&f=.m3u8
-#EXTINF:-1, tvg-name="Tru TV America Latina" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/159.png", Tru TV America Latina
-http://www.tudandy.com/demoface.php?id=337&f=.m3u8
-#EXTINF:-1, tvg-name="Efekto TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/619.png", Efekto TV
-http://www.tudandy.com/demoface.php?id=1039&f=.m3u8
-#EXTINF:-1, tvg-name="Multimedios Plus" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/845.png", Multimedios Plus
-http://www.tudandy.com/demoface.php?id=1459&f=.m3u8
-#EXTINF:-1, tvg-name="Lifetime Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/161.png", Lifetime Latinoamerica
-http://www.tudandy.com/demoface.php?id=423&f=.m3u8
-#EXTINF:-1, tvg-name="CNN en Español" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/213.png", CNN en Español
-http://www.tudandy.com/demoface.php?id=1855&f=.m3u8
-#EXTINF:-1, tvg-name="El Financiero Bloomberg" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1391.png", El Financiero Bloomberg
-http://www.tudandy.com/demoface.php?id=2823&f=.m3u8
-#EXTINF:-1, tvg-name="Azteca Noticias" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/291.png", Azteca Noticias
-http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
-#EXTINF:-1, tvg-name="NTN 24" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/945.png", NTN 24
-http://www.tudandy.com/demoface.php?id=1601&f=.m3u8
-#EXTINF:-1, tvg-name="CB24" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1595.png", CB24
-rtmp://ipointcablertmp.tulix.tv:1935/cb24stream/myStream.sdp
-#EXTINF:-1, tvg-name="Euronews en Español" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1459.png", Euronews en Español
-http://fr-par-iphone-1.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_es.m3u8
-#EXTINF:-1, tvg-name="RT en Español" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/919.png", RT en Español
-http://rt-a.akamaihd.net/ch_02@325606/720p.m3u8
-#EXTINF:-1, tvg-name="TVE 24h" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1610.png", TVE 24h
-http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8
-#EXTINF:-1, tvg-name="Travel TV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1556.png", Travel TV
-rtmp://87.106.219.140/live/myStream_2
-#EXTINF:-1, tvg-name="MTV Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/829.png", MTV Latinoamerica
-http://www.tudandy.com/demoface.php?id=2491&f=.m3u8
-#EXTINF:-1, tvg-name="MTV Hits Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/883.png", MTV Hits Latinoamerica
-http://www.tudandy.com/demoface.php?id=1495&f=.m3u8
-#EXTINF:-1, tvg-name="VH1 Classic Europe" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/237.png", VH1 Classic Europe
-http://www.tudandy.com/demoface.php?id=415&f=.m3u8
-#EXTINF:-1, tvg-name="VH1 Latino Norte" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/227.png", VH1 Latino Norte
-http://www.tudandy.com/demoface.php?id=483&f=.m3u8
-#EXTINF:-1, tvg-name="K Music" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/855.png", K Music
-http://www.tudandy.com/demoface.php?id=3467&f=.m3u8
-#EXTINF:-1, tvg-name="Concert Channel" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/223.png", Concert Channel
-http://www.tudandy.com/demoface.php?id=479&f=.m3u8
-#EXTINF:-1, tvg-name="HTV" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/163.png", HTV
-http://www.tudandy.com/demoface.php?id=341&f=.m3u8
-#EXTINF:-1, tvg-name="Bandamax" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/853.png", Bandamax
-http://www.tudandy.com/demoface.php?id=1467&f=.m3u8
-#EXTINF:-1, tvg-name="Regional Music" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/1800.png", Regional Music
-http://www.tudandy.com/demoface.php?id=4805&f=.m3u8
-#EXTINF:-1, tvg-name="Cine Dinamita" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/873.png", Cine Dinamita
-http://www.tudandy.com/demoface.php?id=3465&f=.m3u8
-#EXTINF:-1, tvg-name="MultiPremier" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/293.png", MultiPremier
-http://www.tudandy.com/demoface.php?id=3293&f=.m3u8
-#EXTINF:-1, tvg-name="CineLatino" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/221.png", CineLatino
-http://www.tudandy.com/demoface.php?id=477&f=.m3u8
-#EXTINF:-1, tvg-name="Golden" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/36.png", Golden
-http://www.tudandy.com/demoface.php?id=264&f=.m3u8
-#EXTINF:-1, tvg-name="Golden Edge" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/851.png", Golden Edge
-http://www.tudandy.com/demoface.php?id=1465&f=.m3u8
-#EXTINF:-1, tvg-name="Golden Multiplex" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/615.png", Golden Multiplex
-http://www.tudandy.com/demoface.php?id=1035&f=.m3u8
-#EXTINF:-1, tvg-name="Paramount Channel Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/18.png", Paramount Channel Latinoamerica
-http://www.tudandy.com/demoface.php?id=260&f=.m3u8
-#EXTINF:-1, tvg-name="Sundance Channel Latinoamerica" tvg-logo="http://portal.iptvprivateserver.tv/stalker_portal/misc/logos/320/621.png", Sundance Channel Latinoamerica
-http://www.tudandy.com/demoface.php?id=1041&f=.m3u8
-#EXTINF:-1,CANAL 2 Mochis TV
-http://74.63.97.188:1935/gpacifico2/videogpacifico2/chunklist_w1461112480.m3u8
-#EXTINF:-1,Canal Once
-http://www.oncetvmexicolive.tv:1935/livepkgr2/smil:int.smil/playlist.m3u8
-#EXTINF:-1,5 TV Tlaxcala
-http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
-#EXTINF:-1,CANAL DE LAS ESTRELLAS
-http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_1048_av-p.m3u8
-#EXTINF:-1,PROYECTO 40
-http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_2_av-p.m3u8
-#EXTINF:-1,CANAL 7 MAZATLAN
-http://74.63.97.188:1935/gpacifico4/videogpacifico4/chunklist_w1774114891.m3u8?
-#EXTINF:-1,Canal 22
-rtmp://192.96.217.230/live/smrtv.sdp
-#EXTINF:-1,Canal 10 Chiapas
-rtmp://wos1.smartcast.com.mx/chiapas/chiapastv
-#EXTINF:-1,Michoacan al dia
-rtmp://video7.stream.mx:1935/8016/8016
-#EXTINF:-1,RCG TV Coahuila
-http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
-#EXTINF:-1,Cultura Guadalajara
-http://74.63.97.188:1935/gnode05/videognode05/master.m3u8
-#EXTINF:-1,Ingenio TV
-http://dl-dgtve.xsn.com.mx/dgtve/canal30dgtve.mp4/playlist.m3u8?
-#EXTINF:-1,Canal del Congreso
-http://dl.canaldelcongreso.gob.mx:1935/ccongreso/mp4:congreso2b.mp4/playlist.m3u8
-#EXTINF:-1,QUINCE TV ZACATECAS
-http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8
-#EXTINF:-1,TV RADIO Y TELEVISION MEXIQUENSE
-rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1
-#EXTINF:-1,Aprende
-http://dl-dgtve.xsn.com.mx/dgtve/canal24dgtve.mp4/playlist.m3u8
-#EXTINF:-1,TELEMAX
-http://enhd.co:1935/ilive/ilive/playlist.m3u8?
-#EXTINF:-1,Viajar  Argentina
-http://eventshd-lh.akamaihd.net/i/viajar_1@168433/master.m3u8#MegaIPTVArgentina
-#EXTINF:-1,C5N Argentina
-rtmp://c5n.stweb.tv:1935/c5n/live
-#EXTINF:-1,Telpin Tv Argentina
-http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
-#EXTINF:-1,El 13 HD Argentina
-rtsp://stream.eltrecetv.com.ar/live13/13tv/13tv1
-#EXTINF:-1,Canal 9 Salta Argentina
-http://xcanal9saltax.api.channel.livestream.com/3.0/playlist.m3u8?
-#EXTINF:-1,ORBE 21 Argentina
-http://urtmpkal-f.akamaihd.net/i/1b6mj17sk_1@308700/master.m3u8
-#EXTINF:-1,Magazine Argentina
-rtsp://stream.mgzn.tv/live/mgzntv/mgzntv
-#EXTINF:-1,C5N Argentina
-rtmp://c5n.stweb.tv:1935/c5n/live
+#EXTINF:-1,TOTAL PLAY (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/1.m3u8
+#EXTINF:-1,AZTECA CORAZON (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/28.m3u8
+#EXTINF:-1,AZTECA CLIC (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/106.m3u8
+#EXTINF:-1,AZTECA MUNDO (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/40.m3u8
+#EXTINF:-1,AZTECA NOTICIAS (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/2.m3u8
+#EXTINF:-1,AZTECA 7 (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/6.m3u8
+#EXTINF:-1,AZTECA 13 (HD Adapt))
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/9.m3u8
+#EXTINF:-1,AZTECA 13 (HD Adapt) 2
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/149.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/3.m3u8
+#EXTINF:-1,CANAL DE LAS ESTRELLAS (HD Adapt) 2
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/147.m3u8
+#EXTINF:-1,CANAL 5 (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/4.m3u8
+#EXTINF:-1,CANAL 5 (HD Adapt) 2
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/148.m3u8
+#EXTINF:-1,CANAL 11 (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/8.m3u8
+#EXTINF:-1,FORO TV (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/5.m3u8
+#EXTINF:-1,GALAVISION (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/7.m3u8
+#EXTINF:-1,MULTIMEDIOS TV (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/13.m3u8
+#EXTINF:-1,PROYECTO 40 (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/10.m3u8
+#EXTINF:-1,TELEFORMULA (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/12.m3u8
+#EXTINF:-1,A&E (HD)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/20.m3u8
+#EXTINF:-1,A&E (1080p) requiere 20Mbps
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/176.m3u8
+#EXTINF:-1,ANIMAL PLANET (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/61.m3u8
+#EXTINF:-1,BBC ENTERTAINMENT (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/29.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/60.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/66.m3u8
+#EXTINF:-1,DISCOVERY  HOME & HEALTH (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/62.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/65.m3u8
+#EXTINF:-1,DISCOVERY THEATER (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/56.m3u8
+#EXTINF:-1,DISCOVERY TLC (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/68.m3u8
+#EXTINF:-1,DISCOVERY TURBO (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/67.m3u8
+#EXTINF:-1,DISCOVERY WORLD (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/59.m3u8
+#EXTINF:-1,FASHION TV (Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/26.m3u8
+#EXTINF:-1,FOX LIFE (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/37.m3u8
+#EXTINF:-1,HISTORY (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/57.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/32.m3u8
+#EXTINF:-1,LIFETIME (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/64.m3u8
+#EXTINF:-1,MASCHIC (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/27.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/63.m3u8
+#EXTINF:-1,NATGEO WILD (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/58.m3u8
+#EXTINF:-1,AYM SPORT (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/99.m3u8
+#EXTINF:-1,BEIN SPORT Ñ (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/120.m3u8
+#EXTINF:-1,CANAL+ DEPORTES (sd inestable)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/133.m3u8
+#EXTINF:-1,CANAL+ FUTBOL (sd inestable)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/132.m3u8
+#EXTINF:-1,CDF CHILE (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/131.m3u8
+#EXTINF:-1,CMD PERU (sd inestable)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/130.m3u8
+#EXTINF:-1,DXTV (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/136.m3u8
+#EXTINF:-1,ESPN (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/93.m3u8
+#EXTINF:-1,ESPN 2 (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/94.m3u8
+#EXTINF:-1,ESPN 3 (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/95.m3u8
+#EXTINF:-1,F1 (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/92.m3u8
+#EXTINF:-1,FOX SPORT (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/96.m3u8
+#EXTINF:-1,FOX SPORT 2 (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/97.m3u8
+#EXTINF:-1,FOX SPORT 3 (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/123.m3u8
+#EXTINF:-1,HMX (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/14.m3u8
+#EXTINF:-1,PX (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/98.m3u8
+#EXTINF:-1,REAL MADRID TV (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/135.m3u8
+#EXTINF:-1,SKY SPORT (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/121.m3u8
+#EXTINF:-1,TDN HD ( Temporal)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/157.m3u8
+#EXTINF:-1,TDN MEXICO (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/126.m3u8
+#EXTINF:-1,UFC Network (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/116.m3u8
+#EXTINF:-1,AMC (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/81.m3u8
+#EXTINF:-1,AMC (HD adapt) 2
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/87.m3u8
+#EXTINF:-1,AXN (HD)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/21.m3u8
+#EXTINF:-1,AXN (1080p) Requiere 20Mbps
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/177.m3u8
+#EXTINF:-1,AZTECA CINEMA (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/75.m3u8
+#EXTINF:-1,CANAL+ ESTRENOS (sd inestable)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/137.m3u8
+#EXTINF:-1,CINECANAL (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/83.m3u8
+#EXTINF:-1,CINECANAL + (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/76.m3u8
+#EXTINF:-1,CINEMAX (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/84.m3u8
+#EXTINF:-1,DEPELICULA (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/80.m3u8
+#EXTINF:-1,FILM ZONE (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/79.m3u8
+#EXTINF:-1,FOX (HD adap)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/15.m3u8
+#EXTINF:-1,FOX (HD adap) 2
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/150.m3u8
+#EXTINF:-1,FOX 1 (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/70.m3u8
+#EXTINF:-1,FOX ACTION (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/71.m3u8
+#EXTINF:-1,FOX CINEMA (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/73.m3u8
+#EXTINF:-1,FOX CLASSIC (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/74.m3u8
+#EXTINF:-1,FOX COMEDY (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/128.m3u8
+#EXTINF:-1,FOX FAMILY (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/127.m3u8
+#EXTINF:-1,FOX MOVIE (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/72.m3u8
+#EXTINF:-1,FX (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/19.m3u8
+#EXTINF:-1,FX (HD adapt) 2
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/152.m3u8
+#EXTINF:-1,GOLDEN (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/78.m3u8
+#EXTINF:-1,GOLDEN EDGE (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/86.m3u8
+#EXTINF:-1,GOLDEN MULTIPLEX (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/119.m3u8
+#EXTINF:-1,GOLDEN PREMIERE (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/117.m3u8
+#EXTINF:-1,GOLDEN PREMIERE 2 (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/118.m3u8
+#EXTINF:-1,HBO (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/112.m3u8
+#EXTINF:-1,HBO FAMILY (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/113.m3u8
+#EXTINF:-1,HBO PLUS ESTE (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/44.m3u8
+#EXTINF:-1,HBO SIGNATURE (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/114.m3u8
+#EXTINF:-1,MAX UP (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/115.m3u8
+#EXTINF:-1,SYFY (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/31.m3u8
+#EXTINF:-1,SONY (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/16.m3u8
+#EXTINF:-1,SPACE (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/82.m3u8
+#EXTINF:-1,SPACE (HD adapt) 2
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/88.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/89.m3u8
+#EXTINF:-1,SUNDANCE CHANNEL (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/124.m3u8
+#EXTINF:-1,TCM (HD Adapt
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/91.m3u8
+#EXTINF:-1,TNT (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/77.m3u8
+#EXTINF:-1,TNT (HD Adapt) 2
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/85.m3u8
+#EXTINF:-1,TNT SERIES (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/33.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/18.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL (HD Adapt) 2
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/151.m3u8
+#EXTINF:-1,WARNER BROS(HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/17.m3u8
+#EXTINF:-1,BOOMERANG (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/53.m3u8
+#EXTINF:-1,CARTOON NETWORK (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/51.m3u8
+#EXTINF:-1,CBEEBIES (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/43.m3u8
+#EXTINF:-1,DISCOVERY KIDS (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/42.m3u8
+#EXTINF:-1,DISNEY CHANNEL (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/47.m3u8
+#EXTINF:-1,DISNEY JR (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/45.m3u8
+#EXTINF:-1,DISNEY XD (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/52.m3u8
+#EXTINF:-1,NICK (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/49.m3u8
+#EXTINF:-1,NICKELODEON (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/50.m3u8
+#EXTINF:-1,NICK JR (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/46.m3u8
+#EXTINF:-1,NICK TOONS (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/48.m3u8
+#EXTINF:-1,TIIN (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/54.m3u8
+#EXTINF:-1,TOONCAST (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/55.m3u8
+#EXTINF:-1,1 CLASSIC (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/109.m3u8
+#EXTINF:-1,BANDAMAX (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/111.m3u8
+#EXTINF:-1,MTV (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/107.m3u8
+#EXTINF:-1,MTV Hits (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/108.m3u8
+#EXTINF:-1,MTV LIVE (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/103.m3u8
+#EXTINF:-1,RITMOSON (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/110.m3u8
+#EXTINF:-1,TELEHIT (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/104.m3u8
+#EXTINF:-1,VH1 (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/105.m3u8
+#EXTINF:-1,GARAGE TV (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/35.m3u8
+#EXTINF:-1,GLITZ (HD adap)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/36.m3u8
+#EXTINF:-1,DISTRITO COMEDIA (HD adap)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/38.m3u8
+#EXTINF:-1,EL GOURMETH (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/34.m3u8
+#EXTINF:-1,COMEDY CENTRAL (HD adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/23.m3u8
+#EXTINF:-1,E! ENTERTAINMENT (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/30.m3u8
+#EXTINF:-1,EL FINANCIERO BLOOMBERG (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/101.m3u8
+#EXTINF:-1,HOLA TV (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/25.m3u8
+#EXTINF:-1,I-SAT (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/90.m3u8
+#EXTINF:-1,MILENIO TV (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/100.m3u8
+#EXTINF:-1,TELEMUNDO INTERNANCIONAL (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/122.m3u8
+#EXTINF:-1,TBS VERYFUNNY (HD adap)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/39.m3u8
+#EXTINF:-1,TRENDY CHANNEL (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/41.m3u8
+#EXTINF:-1,TRU TV (HD adap)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/22.m3u8
+#EXTINF:-1,TVE (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/102.m3u8
+#EXTINF:-1,UNO MAS UNO TV (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/11.m3u8
+#EXTINF:-1,UNIVISION TDN (sd)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/129.m3u8
+#EXTINF:-1,UNICABLE (HD adap)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/24.m3u8
+#EXTINF:-1,WOBI (HD Adapt)
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/69.m3u8
+#EXTINF:-1,ARGENTINA - CANAL TNHD
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/172.m3u8
+#EXTINF:-1,ARGENTINA - CANAL 26
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/171.m3u8
+#EXTINF:-1,ARGENTINA - 360 TV
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/167.m3u8
+#EXTINF:-1,ARGENTINA - C5N
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/164.m3u8
+#EXTINF:-1,ARGENTINA - CANAL 9 SALTA
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/166.m3u8
+#EXTINF:-1,ARGENTINA - ORBE 21
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/165.m3u8
+#EXTINF:-1,ARGENTINA - TELEMAX
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/169.m3u8
+#EXTINF:-1,ARGENTINA - TODO NOTICIAS
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/168.m3u8
+#EXTINF:-1,CHILE - ARICA TV
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/183.m3u8
+#EXTINF:-1,CHILE - CANAL 9 BIO BIO
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/153.m3u8
+#EXTINF:-1,CHILE - EL PINGUINO TV
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/196.m3u8
+#EXTINF:-1,CHILE - LA RED TV
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/195.m3u8
+#EXTINF:-1,CHILE - TVN
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/163.m3u8
+#EXTINF:-1,COLOMBIA - TELEAMIGA
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/175.m3u8
+#EXTINF:-1,COLOMBIA - CANAL U
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/174.m3u8
+#EXTINF:-1,COLOMBIA - CANAL CAPITAL
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/173.m3u8
+#EXTINF:-1,COSTA RICA - CB24
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/181.m3u8
+#EXTINF:-1,COSTA RICA - COLOSAL TV
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/179.m3u8
+#EXTINF:-1,COSTA RICA - EXTRA TV CANAL 42
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/182.m3u8
+#EXTINF:-1,COSTA RICA - SMO TV
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/178.m3u8
+#EXTINF:-1,COSTA RICA - TELE UNO
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/180.m3u8
+#EXTINF:-1,ECUADOR - ECUADOR TV 7
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/194.m3u8
+#EXTINF:-1,ECUADOR - RTS
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/193.m3u8
+#EXTINF:-1,ECUADOR - TC TELEVISION
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/155.m3u8
+#EXTINF:-1,ECUADOR - TVS
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/192.m3u8
+#EXTINF:-1,ESPAÑA - 24H
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/190.m3u8
+#EXTINF:-1,ESPAÑA - A3S SERIES HD
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/188.m3u8
+#EXTINF:-1,ESPAÑA - ANDALUCIA TV
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/187.m3u8
+#EXTINF:-1,ESPAÑA - ANTENA 3 ESPAÑA
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/185.m3u8
+#EXTINF:-1,ESPAÑA - ANTENA 3 INTERNACIONAL
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/184.m3u8
+#EXTINF:-1,ESPAÑA - EXTREMADURA
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/186.m3u8
+#EXTINF:-1,ESPAÑA - MEDITERRANEO TV
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/191.m3u8
+#EXTINF:-1,ESPAÑA - NOVA
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/189.m3u8
+#EXTINF:-1,JAZMIN TV XXX
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/161.m3u8
+#EXTINF:-1,JUICY XXX
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/144.m3u8
+#EXTINF:-1,PASION XXX
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/162.m3u8
+#EXTINF:-1,REAL XXX
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/143.m3u8
+#EXTINF:-1,SECRETS XXX
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/141.m3u8
+#EXTINF:-1,VENUS XXX
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/138.m3u8
+#EXTINF:-1,XTSY XXX
+http://158.69.226.108:8000/live/demo0404161419/GOXdRr325m/146.m3u8
