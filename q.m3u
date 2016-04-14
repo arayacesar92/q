@@ -11,9 +11,6 @@ http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 group-title="Canales Chile", C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTM3U
-#EXTINF:-1, REGALANOS UN LIKE fb.com/tvplayerlatino
-http://127.0.0.1
 #EXTINF:-1 tvg-logo="http://puu.sh/nB4cF/95a5760e75.png" group-title="Nacionales", 52Mx
 http://live.tvplayerlatino.com/lista_remota/src3/EMlyL.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mzHPC/041856392c.png" group-title="Entretenimiento", A&E HD
