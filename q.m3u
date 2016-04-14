@@ -10,9 +10,7 @@ http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 #EXTINF:-1 group-title="Canales Chile", C13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1 group-title="Canales Chile", C13 Cable
-http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/nB4cF/95a5760e75.png" group-title="Nacionales", 52Mx
-http://live.tvplayerlatino.com/lista_remota/src3/EMlyL.m3u8
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8#EXTM3U
 #EXTINF:-1 tvg-logo="http://puu.sh/nB4cF/95a5760e75.png" group-title="Nacionales", 52Mx
 http://live.tvplayerlatino.com/lista_remota/src3/EMlyL.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mzHPC/041856392c.png" group-title="Entretenimiento", A&E HD
@@ -195,6 +193,229 @@ http://live.tvplayerlatino.com/lista_remota/src1/nHCx8.m3u8
 http://live.tvplayerlatino.com/lista_remota/src3/8VRfG.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/mwdQ0/1427230969.png" group-title="Noticias", Foro TV HD
 http://live.tvplayerlatino.com/lista_remota/src1/K2zB5.m3u8
-
-
-
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4ng/b643a02d88.png" group-title="Entretenimiento", Fox
+http://live.tvplayerlatino.com/lista_remota/src1/L0ISp.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4fc/e2d14330d9.png" group-title="Entretenimiento", Fox 1 HD
+http://live.tvplayerlatino.com/lista_remota/src1/NCheB.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4pE/77c3c0b2aa.png" group-title="Peliculas", Fox Action
+http://live.tvplayerlatino.com/lista_remota/src1/QBjs9.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4wQ/6cd02167d4.png" group-title="Peliculas", Fox Cinema
+http://live.tvplayerlatino.com/lista_remota/src1/rvTcm.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4Hb/88acf9ec83.png" group-title="Peliculas", Fox Classics
+http://live.tvplayerlatino.com/lista_remota/src1/ulhmA.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4LG/2fce542af7.png" group-title="Peliculas", Fox Life
+http://live.tvplayerlatino.com/lista_remota/src1/7eNpt.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4te/63dc524e5b.png" group-title="Peliculas", Fox Movies
+http://live.tvplayerlatino.com/lista_remota/src1/pf5II.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes", Fox Sports
+http://live.tvplayerlatino.com/lista_remota/src1/ead8m.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwe6K/af7e32f4e0.png" group-title="Deportes", Fox Sports 2
+http://live.tvplayerlatino.com/lista_remota/src1/zDHQZ.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nAalJ/3108ea3e10.png" group-title="Deportes", FS1
+http://live.tvplayerlatino.com/lista_remota/src3/OCEx2.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4NT/0decb9f5fd.png" group-title="Entretenimiento", FX
+http://live.tvplayerlatino.com/lista_remota/src1/PEhC4.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw4Uk/65b3f604c7.png" group-title="Nacionales", Gala TV
+http://live.tvplayerlatino.com/lista_remota/src1/K1kPK.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mB9id/079a770640.png" group-title="Entretenimiento", Garage TV
+http://live.tvplayerlatino.com/lista_remota/src1/24Ufd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mB9Dx/327016dd4e.png" group-title="Entretenimiento", Glitz
+http://live.tvplayerlatino.com/lista_remota/src1/gOQYF.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o8Yo3/7def47c6f4.png" group-title="Brasil", Globo Brasil
+http://live.tvplayerlatino.com/lista_remota/src3/globr.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGed/1b8cc10b54.png" group-title="Peliculas", Golden Edge
+http://live.tvplayerlatino.com/lista_remota/src1/QfuWa.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw4XE/6a57b1ac9a.png" group-title="Peliculas", Golden HD
+http://live.tvplayerlatino.com/lista_remota/src1/PLMti.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLOY/25fd3c0724.png" group-title="Peliculas", HBO
+http://live.tvplayerlatino.com/lista_remota/src3/YStPQ.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB5xX/247b3cc965.png" group-title="Musica", Heart TV
+http://live.tvplayerlatino.com/lista_remota/src3/bFP81.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/m9UfE/5bb8480ed7.png" group-title="Cultura", History Channel
+http://live.tvplayerlatino.com/lista_remota/src1/wQqis.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nsW7K/e33f64daeb.png" group-title="Musica", Hit TV
+http://live.tvplayerlatino.com/lista_remota/src3/4hkx6.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVSAn/0b7f7011de.png" group-title="Entretenimiento", HMX
+http://live.tvplayerlatino.com/lista_remota/src1/bFMii.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVSCC/1dcc9fd950.png" group-title="Entretenimiento", Hola TV
+http://live.tvplayerlatino.com/lista_remota/src1/pyKOB.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mB8rQ/e887276399.png" group-title="Peliculas", I.Sat
+http://live.tvplayerlatino.com/lista_remota/src1/r7Ohf.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdyP/2a4e5a7045.png" group-title="Cultura", Investigation Discovery
+http://live.tvplayerlatino.com/lista_remota/src1/QO6g7.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB44g/098e405622.png" group-title="Musica", Juce TV
+http://live.tvplayerlatino.com/lista_remota/src3/ykoTS.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwqy1/9feaee8770.png" group-title="Entretenimiento", Lifetime
+http://live.tvplayerlatino.com/lista_remota/src1/v4xin.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nsWwi/c18fe4842e.png" group-title="Musica", m2o TV
+http://live.tvplayerlatino.com/lista_remota/src3/QIVBw.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdVY/fdb8373747.png" group-title="Chile", Maria Vision
+http://live.tvplayerlatino.com/lista_remota/src3/aslZK.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbMc2/7317d4746c.png" group-title="Peliculas", Max Prime
+http://live.tvplayerlatino.com/lista_remota/src3/iBdQU.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mP20o/154ed6c1a3.png" group-title="Entretenimiento", MÃ¡s chic
+http://live.tvplayerlatino.com/lista_remota/src1/BPzH6.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mNvBc/cad6baaa87.png" group-title="Musica", Mi Musica HD
+http://live.tvplayerlatino.com/lista_remota/src3/94Ab5.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrR5/1bb233b647.png" group-title="Entretenimiento", Miami TV
+http://live.tvplayerlatino.com/lista_remota/src3/Omy9l.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="Noticias", Milenio
+http://live.tvplayerlatino.com/lista_remota/src3/iKaSr.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica", MTV
+http://live.tvplayerlatino.com/lista_remota/src1/hzHHE.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/msJ9I/124c6012bc.png" group-title="Musica", MTV Hits
+http://live.tvplayerlatino.com/lista_remota/src1/Q0g4R.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGym/06df5cd57a.png" group-title="Musica", MTV Live HD
+http://live.tvplayerlatino.com/lista_remota/src1/aEyNb.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mB993/e7befece5a.png" group-title="Nacionales", Multimedios
+http://live.tvplayerlatino.com/lista_remota/src3/QXgr8.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="Cultura", Nat Geo
+http://live.tvplayerlatino.com/lista_remota/src1/BiEi0.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2Rd/9c56f73248.png" group-title="Cultura", Nat Geo Wild
+http://live.tvplayerlatino.com/lista_remota/src1/i80zc.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nsXRU/67cee608f8.png" group-title="Deportes", NFL
+http://live.tvplayerlatino.com/lista_remota/src3/RJRqx.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw51W/3b10c832dd.png" group-title="Infantiles", Nick HD
+http://live.tvplayerlatino.com/lista_remota/src1/3hujI.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw57k/d21813a8f6.png" group-title="Infantiles", Nick JR
+http://live.tvplayerlatino.com/lista_remota/src1/DFX8y.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb3Dz/67ee44ac5a.png" group-title="Infantiles", Nick Toons
+http://live.tvplayerlatino.com/lista_remota/src1/mYLvZ.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVS4R/93935891ed.png" group-title="Infantiles", Nickelodeon
+http://live.tvplayerlatino.com/lista_remota/src1/Q7iup.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nC0OX/b5081cfda8.png" group-title="Argentina", ORBE 21
+http://live.tvplayerlatino.com/lista_remota/src3/iNyim.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nxkIJ/22337cbf58.png" group-title="Deportes", Partidazo
+http://live.tvplayerlatino.com/lista_remota/src3/DHS80.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB4iL/8d8077e258.PNG" group-title="Nacionales", Proyecto 40
+http://live.tvplayerlatino.com/lista_remota/src3/eUS0q.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVT4M/a54f2b8fcb.png" group-title="Deportes", PX TV
+http://live.tvplayerlatino.com/lista_remota/src1/SQxal.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqIW/f126e1767d.png" group-title="Peru", RBC
+http://live.tvplayerlatino.com/lista_remota/src3/Xs8vK.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o8XAY/f5067b3a35.png" group-title="Colombia", RCN
+http://live.tvplayerlatino.com/lista_remota/src3/rcnco.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB5fs/d0fbb8562f.png" group-title="Deportes", Real Madrid TV
+http://live.tvplayerlatino.com/lista_remota/src3/vhVBU.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nu2hK/ec70777e2f.png" group-title="Deportes", RedBull TV
+http://live.tvplayerlatino.com/lista_remota/src3/CZ8ix.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mB8FA/fd9624cae2.png" group-title="Musica", Ritmoson Latino
+http://live.tvplayerlatino.com/lista_remota/src1/2xsUx.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqIf/75fd708f8a.png" group-title="Panama", RPC
+http://live.tvplayerlatino.com/lista_remota/src3/TMorW.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/moPpf/233d651bab.png" group-title="Noticias", RT HD
+http://live.tvplayerlatino.com/lista_remota/src3/JopSU.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o8Mup/e670d54ebd.png" group-title="Musica", Si TV
+http://live.tvplayerlatino.com/lista_remota/src3/sitv1.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/msGV1/093178617f.png" group-title="Entretenimiento", Sony HD
+http://live.tvplayerlatino.com/lista_remota/src1/wMbZG.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVSfY/fc2fe8e3eb.png" group-title="Peliculas", Space
+http://live.tvplayerlatino.com/lista_remota/src1/ISt6j.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVSbB/e4e575b65b.png" group-title="Peliculas", Space HD
+http://live.tvplayerlatino.com/lista_remota/src1/qQIPI.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o8Yp1/08f8449b14.png" group-title="Brasil", STB Brasil
+http://live.tvplayerlatino.com/lista_remota/src3/stbbr.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas", Studio Universal
+http://live.tvplayerlatino.com/lista_remota/src1/CZ6O4.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrsL/0abbc0fe2f.png" group-title="Venezuela", Sulavision
+http://live.tvplayerlatino.com/lista_remota/src3/5VGjE.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwqrg/e525edd989.png" group-title="Peliculas", SyFy
+http://live.tvplayerlatino.com/lista_remota/src1/GU0FE.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mM0Ra/41168492b2.png" group-title="Entretenimiento", TBS Very Funny
+http://live.tvplayerlatino.com/lista_remota/src1/DbqPb.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mP1b6/411b64dc27.png" group-title="Peliculas", TCM
+http://live.tvplayerlatino.com/lista_remota/src1/7x3AE.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLur/cf2e6a6f87.png" group-title="Deportes", TDN
+http://live.tvplayerlatino.com/lista_remota/src2/m1u4Q.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqJt/2bbddcfe2d.png" group-title="Republica Dominicana", Tele Antillas
+http://live.tvplayerlatino.com/lista_remota/src3/cHQiw.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrNG/dd21410411.png" group-title="Colombia", Teleamiga Colombia
+http://live.tvplayerlatino.com/lista_remota/src3/VorBH.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrNV/63890679df.png" group-title="Venezuela", Telecaribe
+http://live.tvplayerlatino.com/lista_remota/src3/6iC6X.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqGH/06df1f8fbe.png" group-title="Honduras", Teleceiba
+http://live.tvplayerlatino.com/lista_remota/src3/hK9Hz.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mP29u/cbd4d7f5c3.png" group-title="Entretenimiento", TeleFÃ³rmula
+http://live.tvplayerlatino.com/lista_remota/src1/kO6op.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGI5/21150fe27d.png" group-title="Musica", Telehit
+http://live.tvplayerlatino.com/lista_remota/src1/LKqfP.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/ngQ15/fc7caebab2.png" group-title="Nacionales", Telemedellin
+http://live.tvplayerlatino.com/lista_remota/src3/hsx8K.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqHL/e383619f72.png" group-title="Panama", Telemetro
+http://live.tvplayerlatino.com/lista_remota/src3/339vF.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLe8/21bf87649b.png" group-title="Entretenimiento", Telemundo
+http://live.tvplayerlatino.com/lista_remota/src3/QBXtI.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqGe/6392f61715.png" group-title="Honduras", Teleprogreso Honduras
+http://live.tvplayerlatino.com/lista_remota/src3/VKs4s.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrsX/5a94ae5e96.png" group-title="Republica Dominicana", Telesitemas 11
+http://live.tvplayerlatino.com/lista_remota/src3/1ph8N.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/moPOa/e6dc87182f.png" group-title="Entretenimiento", Telexitos
+http://live.tvplayerlatino.com/lista_remota/src3/GTy79.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nC0Re/ee57b9e394.png" group-title="Argentina", Telpin Tv
+http://live.tvplayerlatino.com/lista_remota/src3/opBVx.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mNvUJ/fe599e7cee.png" group-title="Musica", Tigo Music
+http://live.tvplayerlatino.com/lista_remota/src3/mZBvu.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5bY/e2bab1e46e.png" group-title="Infantiles", Tiin
+http://live.tvplayerlatino.com/lista_remota/src1/gm6eP.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLF3/ceac7e3575.png" group-title="Entretenimiento", TLC
+http://live.tvplayerlatino.com/lista_remota/src1/O9Age.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLfh/5d97ba6f89.png" group-title="Entretenimiento", Tlnovelas
+http://live.tvplayerlatino.com/lista_remota/src1/3iDkr.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrtc/1387c3c004.png" group-title="Argentina", TN Canal
+http://live.tvplayerlatino.com/lista_remota/src4/r1lZ8.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5ff/18d3ec9e56.png" group-title="Peliculas", TNT
+http://live.tvplayerlatino.com/lista_remota/src1/uny6i.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mP248/642a972327.png" group-title="Peliculas", TNT HD
+http://live.tvplayerlatino.com/lista_remota/src1/5shHX.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbFW9/5d26ee562e.png" group-title="Entretenimiento", TNT Series
+http://live.tvplayerlatino.com/lista_remota/src1/9HmKY.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5oi/09350aa9a0.png" group-title="Infantiles", Tooncast
+http://live.tvplayerlatino.com/lista_remota/src1/BNgf7.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nB4fk/62e24c3fa9.png" group-title="Nacionales", Travel Channel
+http://live.tvplayerlatino.com/lista_remota/src3/IG94F.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mM0Bx/46d1a41194.png" group-title="Entretenimiento", Trendy
+http://live.tvplayerlatino.com/lista_remota/src1/hz2QF.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrtY/d94dbb6ccd.png" group-title="Venezuela", TRT
+http://live.tvplayerlatino.com/lista_remota/src4/lW8DD.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw5r2/486241bb2e.png" group-title="Entretenimiento", TruTV
+http://live.tvplayerlatino.com/lista_remota/src1/5pBpi.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o8YpV/f18d1a478e.png" group-title="Brasil", TVBrasil
+http://live.tvplayerlatino.com/lista_remota/src3/tvbr1.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVTf6/f3116d0280.png" group-title="Nacionales", TVE
+http://live.tvplayerlatino.com/lista_remota/src1/nGBpw.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrur/ef232e1ab5.png" group-title="Chile", TVN
+http://live.tvplayerlatino.com/lista_remota/src3/gLtpo.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrvp/3eaf3d4de0.png" group-title="Venezuela", TVO Canal 23
+http://live.tvplayerlatino.com/lista_remota/src4/6uNIU.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrvE/3b37544d62.png" group-title="Ecuador", TVS
+http://live.tvplayerlatino.com/lista_remota/src3/5xu4J.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nTbIR/127d8b5919.png" group-title="Deportes", Tyc Sports
+http://live.tvplayerlatino.com/lista_remota/src4/tycsp.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvqIx/e5649716f9.png" group-title="Peru", UCV Satelital
+http://live.tvplayerlatino.com/lista_remota/src3/ycdgB.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLzy/cd6ff326e5.png" group-title="Entretenimiento", Unicable
+http://live.tvplayerlatino.com/lista_remota/src1/O7Ohw.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/monkP/4502e76205.png" group-title="Peliculas", Universal
+http://live.tvplayerlatino.com/lista_remota/src1/V6Eqb.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mP22k/d11bfadf26.png" group-title="Peliculas", Universal HD
+http://live.tvplayerlatino.com/lista_remota/src1/nfdUc.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mOKE1/5edae7eb21.png" group-title="Peliculas", Universal Movies
+http://live.tvplayerlatino.com/lista_remota/src3/tsoHI.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLcu/7ea24f7b73.png" group-title="Entretenimiento", Univision
+http://live.tvplayerlatino.com/lista_remota/src3/ZWmhM.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLw0/cf67511fa3.png" group-title="Deportes", Univision TDN
+http://live.tvplayerlatino.com/lista_remota/src3/q6Tfo.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nvrwb/338b2694eb.png" group-title="Venezuela", Vale TV
+http://live.tvplayerlatino.com/lista_remota/src4/qsMrs.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mNQYY/e69eff5a99.png" group-title="Musica", Vevo TV
+http://live.tvplayerlatino.com/lista_remota/src3/TnzyN.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mNQWC/4153202368.png" group-title="Musica", VH1 Classic
+http://live.tvplayerlatino.com/lista_remota/src1/KW2YQ.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/maO5i/8473676ac5.png" group-title="Musica", VH1 HD
+http://live.tvplayerlatino.com/lista_remota/src1/eriD9.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdML/61aec19cb5.png" group-title="Entretenimiento", Warner Channel HD
+http://live.tvplayerlatino.com/lista_remota/src1/SO0M3.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVSP4/eb8b0a0e90.png" group-title="Noticias", WOBI
+http://live.tvplayerlatino.com/lista_remota/src1/pcvbD.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/o7JP7/12f96e58c8.png" group-title="Deportes", WWE Network
+http://live.tvplayerlatino.com/lista_remota/src3/wwetv.m3u8
