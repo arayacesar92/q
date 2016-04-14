@@ -1,6 +1,18 @@
 #EXTM3U
+#EXTINF:-1 group-title="Canales Chile", UCV HD
+http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
+#EXTINF:-1 group-title="Canales Chile", TVN HD
+http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
+#EXTINF:-1 group-title="Canales Chile", Mega HD
+http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist.m3u8?
+#EXTINF:-1 group-title="Canales Chile", CHV HD
+http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
+#EXTINF:-1 group-title="Canales Chile", C13 HD
+http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
+#EXTINF:-1 group-title="Canales Chile", C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://puu.sh/nB4cF/95a5760e75.png" group-title="Nacionales", 52Mx
 http://live.tvplayerlatino.com/lista_remota/src3/EMlyL.m3u8
-#EXTINF:-1 tvg-logo="http://puu.sh/mzHPC/041856392c.png" group-title="Entretenimiento", A&E HD
+
 
 
