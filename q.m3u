@@ -37,5 +37,3 @@ rtmp://198.255.17.18:443/live?MRXnbcQBR0khXLAMchtDydHvq2YMbTWO/live_mega_naruto
 rtmp://198.255.17.18:443/live?ZddEPnm0oT6cI9QwAbCriqqsiecY3HAg/live_mega_vecinos
 #EXTINF:-1,DISCOVERY  
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,TN
-rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd1 swfUrl=http://tn.com.ar/sites/all/themes/leono/swf/dplayer/player.swf live=1 
