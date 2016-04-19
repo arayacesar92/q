@@ -11,6 +11,8 @@ http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1,C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1,Dragon Ball Z live_seriespelis
+rtmp://198.255.17.26:443/live?ipLfPu6y5iuv6P7HKXQMGXOkH4mpewO6/live_seriespelis
 #EXTINF:-1,Dragon Ball Z live_mega_animes 
 rtmp://198.255.17.26:443/live?J81EokqCoQYvhxRCoq6VfpRiLQIpIIeq/live_mega_animes
 #EXTINF:-1,Futurama live_megafuturama
@@ -37,3 +39,27 @@ rtmp://198.255.17.18:443/live?MRXnbcQBR0khXLAMchtDydHvq2YMbTWO/live_mega_naruto
 rtmp://198.255.17.18:443/live?ZddEPnm0oT6cI9QwAbCriqqsiecY3HAg/live_mega_vecinos
 #EXTINF:-1,DISCOVERY  
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,live_series_pelis
+rtmp://198.255.17.42:443/live?fyL4jwW0m0SyTRBaCzOOVT0lGEU8375V/live_series_pelis
+#EXTINF:-1,live_1disney_channel
+rtmp://198.255.17.42:443/live?fyL4jwW0m0SyTRBaCzOOVT0lGEU8375V/live_1disney_channel
+rtmp://198.255.17.26:443/live?psJmpHeMJLkHSBrQOROPGy55rIdD2Jyt/live_mega_bigbang
+rtmp://198.255.17.26:443/live?psJmpHeMJLkHSBrQOROPGy55rIdD2Jyt/live_futurama_mania
+rtmp://198.255.17.26:443/live?psJmpHeMJLkHSBrQOROPGy55rIdD2Jyt/live_megafuturama
+rtmp://198.255.17.42:443/live?psJmpHeMJLkHSBrQOROPGy55rIdD2Jyt/live_mega_evolucionhd
+rtmp://198.255.17.18:443/live?psJmpHeMJLkHSBrQOROPGy55rIdD2Jyt/live_estrenos_hd
+rtmp://198.255.17.34:443/live?wrv2RIkKWb5XVrlw9YXtj30nYNQbVm3V/live_dr_daniel_jackson
+rtmp://198.255.17.18:443/live?wrv2RIkKWb5XVrlw9YXtj30nYNQbVm3V/live_cremecartoon
+rtmp://198.255.17.18:443/live?wrv2RIkKWb5XVrlw9YXtj30nYNQbVm3V/live_cinescape
+rtmp://198.255.17.34:443/live?wrv2RIkKWb5XVrlw9YXtj30nYNQbVm3V/live_chespirito_mania
+rtmp://198.255.17.26:443/live?PR7ZODikI3ow2BJM61Ear6laxrTDFJYZ/live_cine_calidad
+rtmp://198.255.17.34:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_zrivo91
+rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_universal_movies
+rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_morena_channels12
+rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_principe_del_rap
+rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_zonafilms
+rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_teleprogreso
+rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_series_pelis
+rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_simpson_mania
+rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_mega_simpson
+rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_vitatoseries
