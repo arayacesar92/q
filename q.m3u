@@ -1,4 +1,6 @@
 #EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=798304,CODECS="avc1.77.31,mp4a.40.2",RESOLUTION=852x480
+chunklist_b798304.m3u8
 #EXTINF:-1 group-title="Canales Chile", LA RED HD
 http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/media-ui2zzb67r_b448304_7755.ts
 #EXTINF:-1 group-title="Canales Chile", UCV HD
