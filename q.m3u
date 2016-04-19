@@ -25,3 +25,5 @@ rtmp://198.255.17.58:443/live?zsU9gcN2vxmHfKlxvJL4KHdLPtDL1M9l/live_mega_simpson
 rtmp://198.255.17.42:443/live?zAGclXMcLTCGR8kkxSPiuV4rA10djKcz/live_mega_kids
 #EXTINF:-1 tvg-logo=”http://puu.sh/mOKE1/5edae7eb21.png” group-title=”Peliculas”, Terror
 rtmp://198.255.17.58:443/live?SJf6ZEmqNW0aJSHM3LXlqtuGg058YuHs/live_mega_extremo
+#EXTINF:-1 tvg-logo=”http://puu.sh/mOKE1/5edae7eb21.png” group-title=”Peliculas”, Series
+rtmp://198.255.17.34:443/live?BTeJ4Yjmz0fwtepRyRd62eBnu9vCEq8P/live_el_yamato
