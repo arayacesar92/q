@@ -31,5 +31,11 @@ rtmp://198.255.17.58:443/live?SJf6ZEmqNW0aJSHM3LXlqtuGg058YuHs/live_mega_extremo
 rtmp://198.255.17.34:443/live?BTeJ4Yjmz0fwtepRyRd62eBnu9vCEq8P/live_el_yamato
 #EXTINF:-1 tvg-logo=”http://puu.sh/mOKE1/5edae7eb21.png” group-title=”Peliculas”, Naruto
 rtmp://198.255.17.18:443/live?MRXnbcQBR0khXLAMchtDydHvq2YMbTWO/live_mega_naruto
-#EXTINF:-1,Futurama
-http://vaughnlive.tv/megafuturama
+#EXTINF:-1,Malcom
+rtmp://198.255.17.18:443/live?ZddEPnm0oT6cI9QwAbCriqqsiecY3HAg/live_mega_vecinos
+#EXTINF:-1,DISCOVERY  
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1,DISCOVERY  
+rtmp://198.255.17.26:443/live?EhiRuJFL6zCriLGXALqcmfO58DgNxKsr/live_misterioso777
+#EXTINF:-1,TN
+rtmp://$OPT:rtmp-raw=rtmp://stream.tn.com.ar/live playpath=tnhd1 swfUrl=http://tn.com.ar/sites/all/themes/leono/swf/dplayer/player.swf live=1 
