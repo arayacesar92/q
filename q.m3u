@@ -13,6 +13,8 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:-1 group-title="Canales Chile", Dragon Ball Z
 rtmp://198.255.17.26:443/live?J81EokqCoQYvhxRCoq6VfpRiLQIpIIeq/live_mega_animes
+#EXTINF:-1 group-title="Canales Chile", Futurama
+rtmp://198.255.17.34:443/live?t2P3ZcRxZgFTv4erJx1wd33tJm7jDEk8/live_megafuturama
 #EXTINF:-1 group-title="Canales Chile", South Park
 rtmp://198.255.17.26:443/live?0aoFofPcBEUPS90Yv6qMp5hCVdJoMZAr/live_mega_revolucionhd
 #EXTINF:-1 tvg-logo=”http://puu.sh/mOKE1/5edae7eb21.png” group-title=”Peliculas”, Peliculas
@@ -27,3 +29,7 @@ rtmp://198.255.17.42:443/live?zAGclXMcLTCGR8kkxSPiuV4rA10djKcz/live_mega_kids
 rtmp://198.255.17.58:443/live?SJf6ZEmqNW0aJSHM3LXlqtuGg058YuHs/live_mega_extremo
 #EXTINF:-1 tvg-logo=”http://puu.sh/mOKE1/5edae7eb21.png” group-title=”Peliculas”, Series
 rtmp://198.255.17.34:443/live?BTeJ4Yjmz0fwtepRyRd62eBnu9vCEq8P/live_el_yamato
+#EXTINF:-1 tvg-logo=”http://puu.sh/mOKE1/5edae7eb21.png” group-title=”Peliculas”, Naruto
+rtmp://198.255.17.18:443/live?MRXnbcQBR0khXLAMchtDydHvq2YMbTWO/live_mega_naruto
+#EXTINF:-1,Futurama
+http://vaughnlive.tv/megafuturama
