@@ -9,71 +9,7 @@ http://edge-61-cl.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/pla
 http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 #EXTINF:-1 group-title="Canales Chile", C13 HD
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
-#EXTINF:-1 group-title="Canales Chile", C13 Cable
+#EXTINF:-1 tvg-logo="http://i667.photobucket.com/albums/vv35/geneiptv/canal13_c_cl_zpsoueja6s7.png" group-title="NACIONALES", C13 Cable
+http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
+#EXTINF:-1 group-title="Canales Chile", Dragon Ball Z
 rtmp://198.255.17.26:443/live?J81EokqCoQYvhxRCoq6VfpRiLQIpIIeq/live_mega_animes
-#EXTINF:-1,5 Centímetros por Segundo [Filme] 720P
-https://www.youtube.com/watch?v=zLuOYNVeg1o
-#EXTINF:-1,11 Eyes Ep 01 720P
-https://www.youtube.com/watch?v=9i10syT1Na8
-#EXTINF:-1,11 Eyes Ep 02 720P
-https://www.youtube.com/watch?v=O-WQ_Acsv3I
-#EXTINF:-1,11 Eyes Ep 03 720P
-https://www.youtube.com/watch?v=GEyppI7Qbkc
-#EXTINF:-1,11 Eyes Ep 04 720P
-https://www.youtube.com/watch?v=p2h5PqPTd54
-#EXTINF:-1,11 Eyes Ep 05 720P
-https://www.youtube.com/watch?v=EmxhTBff4nA
-#EXTINF:-1,11 Eyes Ep 06 720P
-https://www.youtube.com/watch?v=DS9EFp62NOI
-#EXTINF:-1,11 Eyes Ep 07 720P
-https://www.youtube.com/watch?v=bp7gtJzsfh4
-#EXTINF:-1,11 Eyes Ep 08 720P
-https://www.youtube.com/watch?v=lJkWI3Ip_lA
-#EXTINF:-1,11 Eyes Ep 09 720P
-https://www.youtube.com/watch?v=z1E_oC28Xq0
-#EXTINF:-1,11 Eyes Ep 10 720P
-https://www.youtube.com/watch?v=Zb90TAsAMzw
-#EXTINF:-1,11 Eyes Ep 11 720P
-https://www.youtube.com/watch?v=f0xcMYJKbIY
-#EXTINF:-1,11 Eyes Ep 12 720P
-https://www.youtube.com/watch?v=qTcF9LZF0DM
-#EXTINF:-1,Absolute Duo Ep 01 720P
-https://www.youtube.com/watch?v=Rjza-YEKLaw
-#EXTINF:-1,Absolute Duo Ep 02 720P
-https://www.youtube.com/watch?v=qVYTogOrSWw
-#EXTINF:-1,Absolute Duo Ep 03 720P
-https://www.youtube.com/watch?v=TGKRaRVAU0o
-#EXTINF:-1,Absolute Duo Ep 04 720P
-https://www.youtube.com/watch?v=wNxXc89MUzY
-#EXTINF:-1,Absolute Duo Ep 05 720P
-https://www.youtube.com/watch?v=VqZA07Cg5k4
-#EXTINF:-1,Absolute Duo Ep 06 720P
-https://www.youtube.com/watch?v=Nk0xQvvXNV0
-#EXTINF:-1,Absolute Duo Ep 07 720P
-https://www.youtube.com/watch?v=eI36eE960Tc
-#EXTINF:-1,Absolute Duo Ep 08 720P
-https://www.youtube.com/watch?v=au0KE4tU1Wo
-#EXTINF:-1,Absolute Duo Ep 09 720P
-https://www.youtube.com/watch?v=QqwcZYoPwsM
-#EXTINF:-1,Absolute Duo Ep 10 720P
-https://www.youtube.com/watch?v=GTm_t3Vlwis
-#EXTINF:-1,Absolute Duo Ep 11 720P
-https://www.youtube.com/watch?v=d-pi7qXHcyA
-#EXTINF:-1,Absolute Duo Ep 12 720P
-https://www.youtube.com/watch?v=pfM6JwxuCY4
-#EXTINF:-1,Ace of Diamond Ep 01 720P
-https://cld.pt/dl/download/5d8f57cb-093d-427e-b37b-6244c09fa868/Ace%20of%20Diamond%20-%2001.mp4?download=true
-#EXTINF:-1,Ace of Diamond Ep 02 720P
-https://cld.pt/dl/download/9dfcf166-2f8a-4eac-9f0b-43be52bebdf9/Ace%20of%20Diamond%2002%20hd.mp4?download=true
-#EXTINF:-1,Ace of Diamond Ep 03 720P
-https://copy.com/4rwxN8WpzZKT/003.mp4?download=true
-#EXTINF:-1,Ace of Diamond Ep 04 720P
-https://copy.com/aIYhjR0MxL6S/004.mp4?download=true
-#EXTINF:-1,Ace of Diamond Ep 05 720P
-https://copy.com/rswPkG4sPIGt/005.mp4?download=true
-#EXTINF:-1,Ace of Diamond Ep 06 720P
-https://copy.com/xQQai1l7QRw9/006.mp4?download=true 
-#EXTINF:-1,Ace of Diamond Ep 07 720P
-https://copy.com/sSzxIrkXfVfU/007.mp4?download=true
-#EXTINF:-1,Ace of Diamond Ep 08 720P
-https://copy.com/sa3Rkder00Tf/08.mp4?download=true
