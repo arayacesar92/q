@@ -17,6 +17,8 @@ rtmp://198.255.17.26:443/live?J81EokqCoQYvhxRCoq6VfpRiLQIpIIeq/live_mega_animes
 rtmp://198.255.17.34:443/live?t2P3ZcRxZgFTv4erJx1wd33tJm7jDEk8/live_megafuturama
 #EXTINF:-1 group-title="Canales Chile", South Park
 rtmp://198.255.17.26:443/live?0aoFofPcBEUPS90Yv6qMp5hCVdJoMZAr/live_mega_revolucionhd
+#EXTINF:-1 group-title="Canales Chile", cine latino
+rtmp://198.255.17.34:443/live?9qYWisTS4UB6c84uw3wk6croWNbnwTtp/live_cineplatino
 #EXTINF:-1 tvg-logo=”http://puu.sh/mOKE1/5edae7eb21.png” group-title=”Peliculas”, Peliculas
 rtmp://198.255.17.34:443/live?gQhHILSOI0NDvNUweiHx822qFMh9bgT7/live_mega_movieshd
 #EXTINF:-1 tvg-logo=”http://puu.sh/mOKE1/5edae7eb21.png” group-title=”Peliculas”, Chavo
