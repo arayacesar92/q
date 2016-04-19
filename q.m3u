@@ -19,3 +19,9 @@ rtmp://198.255.17.26:443/live?0aoFofPcBEUPS90Yv6qMp5hCVdJoMZAr/live_mega_revoluc
 rtmp://198.255.17.34:443/live?gQhHILSOI0NDvNUweiHx822qFMh9bgT7/live_mega_movieshd
 #EXTINF:-1 tvg-logo=”http://puu.sh/mOKE1/5edae7eb21.png” group-title=”Peliculas”, Chavo
 rtmp://198.255.17.42:443/live?QfnIAfdJjkf592pOLJCP5ZzBRVgnxDkH/live_mega_chavo
+#EXTINF:-1 tvg-logo=”http://puu.sh/mOKE1/5edae7eb21.png” group-title=”Peliculas”, Los Simpsons
+rtmp://198.255.17.58:443/live?zsU9gcN2vxmHfKlxvJL4KHdLPtDL1M9l/live_mega_simpson
+#EXTINF:-1 tvg-logo=”http://puu.sh/mOKE1/5edae7eb21.png” group-title=”Peliculas”, Infantiles
+rtmp://198.255.17.42:443/live?zAGclXMcLTCGR8kkxSPiuV4rA10djKcz/live_mega_kids
+#EXTINF:-1 tvg-logo=”http://puu.sh/mOKE1/5edae7eb21.png” group-title=”Peliculas”, Terror
+rtmp://198.255.17.58:443/live?SJf6ZEmqNW0aJSHM3LXlqtuGg058YuHs/live_mega_extremo
