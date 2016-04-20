@@ -21,12 +21,16 @@ rtmp://198.255.17.34:443/live?9qYWisTS4UB6c84uw3wk6croWNbnwTtp/live_cineplatino
 rtmp://198.255.17.18:443/live?psJmpHeMJLkHSBrQOROPGy55rIdD2Jyt/live_estrenos_hd
 #EXTINF:-1,HBO
 rtmp://198.255.17.34:443/live?gQhHILSOI0NDvNUweiHx822qFMh9bgT7/live_mega_movieshd
+#EXTINF:-1,The Film Zone
+rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_morena_channels12
 #EXTINF:-1,FOX FAMILY
 rtmp://198.255.17.42:443/live?zAGclXMcLTCGR8kkxSPiuV4rA10djKcz/live_mega_kids
 #EXTINF:-1, TNT
 rtmp://198.255.17.58:443/live?SJf6ZEmqNW0aJSHM3LXlqtuGg058YuHs/live_mega_extremo
 #EXTINF:-1, FX
 rtmp://198.255.17.34:443/live?BTeJ4Yjmz0fwtepRyRd62eBnu9vCEq8P/live_el_yamato
+#EXTINF:-1,live_series_pelis
+rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_series_pelis
 #EXTINF:-1,Dragon Ball Z live_seriespelis
 rtmp://198.255.17.26:443/live?ipLfPu6y5iuv6P7HKXQMGXOkH4mpewO6/live_seriespelis
 #EXTINF:-1,Dragon Ball Z live_mega_animes 
@@ -69,14 +73,10 @@ rtmp://198.255.17.26:443/live?PR7ZODikI3ow2BJM61Ear6laxrTDFJYZ/live_cine_calidad
 rtmp://198.255.17.34:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_zrivo91
 #EXTINF:-1,live_universal_movies
 rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_universal_movies
-#EXTINF:-1,live_morena_channels12
-rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_morena_channels12
 #EXTINF:-1,live_principe_del_ra
 rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_principe_del_rap
 #EXTINF:-1,live_teleprogreso
 rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_teleprogreso
-#EXTINF:-1,live_series_pelis
-rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_series_pelis
 #EXTINF:-1,live_simpson_mania
 rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_simpson_mania
 #EXTINF:-1,live_mega_simpson
