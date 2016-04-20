@@ -3,8 +3,6 @@
 http://live-lared.cdn.nedmedia.io/lared/smil:lared.smil/playlist.m3u8
 #EXTINF:-1,UCV HD
 http://movilstream.digitalproserver.com/ucvtv/ucvtv.smil/chunklist-b1248000.m3u8
-#EXTINF:-1,LIV TV HD
-http://cdn.ztreaming.com/tustreaming/live2/playlist.m3u8
 #EXTINF:-1,TVN HD
 http://tvn-vod.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 #EXTINF:-1,Mega HD
