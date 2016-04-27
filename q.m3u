@@ -31,8 +31,6 @@ rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_series_pelis
 rtmp://198.255.17.18:443/live?wrv2RIkKWb5XVrlw9YXtj30nYNQbVm3V/live_cinescape
 #EXTINF:-1, ISAT
 rtmp://198.255.17.58:443/live?SJf6ZEmqNW0aJSHM3LXlqtuGg058YuHs/live_mega_extremo
-#EXTINF:-1,Dragon Ball Z live_seriespelis
-rtmp://198.255.17.26:443/live?ipLfPu6y5iuv6P7HKXQMGXOkH4mpewO6/live_seriespelis
 #EXTINF:-1,Dragon Ball Z live_mega_animes 
 rtmp://198.255.17.26:443/live?J81EokqCoQYvhxRCoq6VfpRiLQIpIIeq/live_mega_animes
 #EXTINF:-1,Futurama live_megafuturama
