@@ -15,8 +15,6 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
 #EXTINF:-1,FOX
 rtmp://198.255.17.34:443/live?9qYWisTS4UB6c84uw3wk6croWNbnwTtp/live_cineplatino
-EXTINF:-1,CINE CANAL
-rtmp://198.255.17.18:443/live?psJmpHeMJLkHSBrQOROPGy55rIdD2Jyt/live_estrenos_hd
 #EXTINF:-1,HBO
 rtmp://198.255.17.34:443/live?gQhHILSOI0NDvNUweiHx822qFMh9bgT7/live_mega_movieshd
 #EXTINF:-1,The Film Zone
@@ -29,8 +27,6 @@ rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_universal_mo
 rtmp://198.255.17.34:443/live?BTeJ4Yjmz0fwtepRyRd62eBnu9vCEq8P/live_el_yamato
 #EXTINF:-1,AXN
 rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_series_pelis
-EXTINF:-1,Movie City
-rtmp://198.255.17.26:443/live?PR7ZODikI3ow2BJM61Ear6laxrTDFJYZ/live_cine_calidad
 #EXTINF:-1,TNT
 rtmp://198.255.17.18:443/live?wrv2RIkKWb5XVrlw9YXtj30nYNQbVm3V/live_cinescape
 #EXTINF:-1, ISAT
