@@ -47,9 +47,7 @@ rtmp://198.255.17.18:443/live?MRXnbcQBR0khXLAMchtDydHvq2YMbTWO/live_mega_naruto
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
 #EXTINF:-1,live_series_pelis
 rtmp://198.255.17.42:443/live?fyL4jwW0m0SyTRBaCzOOVT0lGEU8375V/live_series_pelis
-#EXTINF:-1,live_mega_bigbang
 rtmp://198.255.17.26:443/live?psJmpHeMJLkHSBrQOROPGy55rIdD2Jyt/live_mega_bigbang
-#EXTINF:-1,live_futurama_mania
 rtmp://198.255.17.26:443/live?psJmpHeMJLkHSBrQOROPGy55rIdD2Jyt/live_futurama_mania
 #EXTINF:-1,live_cremecartoon
 rtmp://198.255.17.18:443/live?wrv2RIkKWb5XVrlw9YXtj30nYNQbVm3V/live_cremecartoon
