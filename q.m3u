@@ -18,46 +18,44 @@ rtmp://198.255.17.34:443/live?gQhHILSOI0NDvNUweiHx822qFMh9bgT7/live_mega_moviesh
 #EXTINF:-1,FOX
 rtmp://198.255.17.42:443/live?psJmpHeMJLkHSBrQOROPGy55rIdD2Jyt/live_mega_evolucionhd
 #EXTINF:-1,The Film Zone
-rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_morena_channels12
+rtmp://198.255.17.18:443/live?eKHTPTWFQFulglicsr8EKWv4aTkKjizw/live_animania
 #EXTINF:-1,Movie city
-rtmp://198.255.17.34:443/live?wrv2RIkKWb5XVrlw9YXtj30nYNQbVm3V/live_dr_daniel_jackson
+rtmp://198.255.17.58:1935/live?eKHTPTWFQFulglicsr8EKWv4aTkKjizw/live_cineplatino
 #EXTINF:-1,FOX FAMILY
-rtmp://198.255.17.42:443/live?zAGclXMcLTCGR8kkxSPiuV4rA10djKcz/live_mega_kids
+rtmp://198.255.17.34:1935/live?GvNDz0YJ4uPuQzTJZMQS9KwHZN46tMgr/live_300
 #EXTINF:-1,Universal Movies
-rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_universal_movies
+rtmp://198.255.17.58:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_cinescape
 #EXTINF:-1, FX
-rtmp://198.255.17.34:443/live?BTeJ4Yjmz0fwtepRyRd62eBnu9vCEq8P/live_el_yamato
+rtmp://198.255.17.58:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_animetoontv
 #EXTINF:-1,AXN
-rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_series_pelis
+rtmp://198.255.17.58:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_alakran00
 #EXTINF:-1,TNT
-rtmp://198.255.17.18:443/live?wrv2RIkKWb5XVrlw9YXtj30nYNQbVm3V/live_cinescape
+rtmp://198.255.26.34:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_cine_calidad
 #EXTINF:-1, ISAT
-rtmp://198.255.17.58:443/live?SJf6ZEmqNW0aJSHM3LXlqtuGg058YuHs/live_mega_extremo
-#EXTINF:-1,Dragon Ball Z live_mega_animes 
+rtmp://198.255.26.34:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_club_terror
+#EXTINF:-1,Dragon Ball Z 
 rtmp://198.255.17.26:443/live?J81EokqCoQYvhxRCoq6VfpRiLQIpIIeq/live_mega_animes
-#EXTINF:-1,Futurama live_megafuturama
+#EXTINF:-1,Futurama
 rtmp://198.255.17.34:443/live?t2P3ZcRxZgFTv4erJx1wd33tJm7jDEk8/live_megafuturama
-#EXTINF:-1,CHAVO live_mega_chavo
+#EXTINF:-1,Dragon Ball z 2
 rtmp://198.255.17.42:443/live?QfnIAfdJjkf592pOLJCP5ZzBRVgnxDkH/live_mega_chavo
-#EXTINF:-1,Los Simpsons live_mega_simpson
+#EXTINF:-1,Los Simpsons 
 rtmp://198.255.17.58:443/live?zsU9gcN2vxmHfKlxvJL4KHdLPtDL1M9l/live_mega_simpson
-#EXTINF:-1, Naruto
+#EXTINF:-1, Futurama 2
 rtmp://198.255.17.18:443/live?MRXnbcQBR0khXLAMchtDydHvq2YMbTWO/live_mega_naruto
 #EXTINF:-1,DISCOVERY  
 http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
-#EXTINF:-1,live_series_pelis
-rtmp://198.255.17.42:443/live?fyL4jwW0m0SyTRBaCzOOVT0lGEU8375V/live_series_pelis
-rtmp://198.255.17.26:443/live?psJmpHeMJLkHSBrQOROPGy55rIdD2Jyt/live_mega_bigbang
-rtmp://198.255.17.26:443/live?psJmpHeMJLkHSBrQOROPGy55rIdD2Jyt/live_futurama_mania
-#EXTINF:-1,live_cremecartoon
+#EXTINF:-1,Los simsons 2
+
+#EXTINF:-1,TNT 2
 rtmp://198.255.17.18:443/live?wrv2RIkKWb5XVrlw9YXtj30nYNQbVm3V/live_cremecartoon
-#EXTINF:-1,live_chespirito_mania
+#EXTINF:-1,HBO2
 rtmp://198.255.17.34:443/live?wrv2RIkKWb5XVrlw9YXtj30nYNQbVm3V/live_chespirito_mania
-#EXTINF:-1,live_zrivo91
+#EXTINF:-1,CINAMAX
 rtmp://198.255.17.34:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_zrivo91
-#EXTINF:-1,live_principe_del_ra
+#EXTINF:-1,HBO MOVIES
 rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_principe_del_rap
-#EXTINF:-1,live_teleprogreso
+#EXTINF:-1,HSTORY
 rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_teleprogreso
 #EXTINF:-1,live_simpson_mania
 rtmp://198.255.17.42:443/live?2qMlhRtOrRdRItdamvrvReLmaNCjzsJo/live_simpson_mania
@@ -74,38 +72,4 @@ rtmp://198.255.17.18:443/live?ZddEPnm0oT6cI9QwAbCriqqsiecY3HAg/live_mega_vecinos
 #EXTINF:-1,live_1disney_channel
 rtmp://198.255.17.42:443/live?fyL4jwW0m0SyTRBaCzOOVT0lGEU8375V/live_1disney_channel
 rtmp://198.255.17.26:1935/live?pmrALboyjBpccSflsHQraPjiy8Onfy2H/live_vitatoseries
-rtmp://198.255.17.42:1935/live?wIVyFocRvFZFoY4NiOPuYOTXkbInaoSY/live_vecinobot
-rtmp://198.255.17.26:1935/live?wIVyFocRvFZFoY4NiOPuYOTXkbInaoSY/live_universal_movies
-rtmp://198.255.17.34:1935/live?wIVyFocRvFZFoY4NiOPuYOTXkbInaoSY/live_terror_y_suspenso
-rtmp://198.255.17.18:443/live?Y3pEo6XwpcBlxrwsCOVdvO3Ctz0swrp3/live_solozombie
-rtmp://198.255.17.34:1935/live?Y3pEo6XwpcBlxrwsCOVdvO3Ctz0swrp3/live_simpson_mania
-rtmp://198.255.17.34:1935/live?N25b8gCVwlHAB6zILbbQ7KIEbPuVp5VJ/live_principe_del_rap
-rtmp://198.255.17.34:1935/live?N25b8gCVwlHAB6zILbbQ7KIEbPuVp5VJ/live_movie_after_dark
-rtmp://198.255.17.42:1935/live?0JDYMCaQW4r47jWUSrxyN6ryo2Xg5Mfy/live_mfv_09
-rtmp://198.255.17.42:1935/live?hdnEEq7diMN5kA5PYN3e4tyvriwu8t0V/live_megamovieshd
-rtmp://198.255.17.42:1935/live?hdnEEq7diMN5kA5PYN3e4tyvriwu8t0V/live_mfv_05
-rtmp://198.255.17.34:1935/live?hdnEEq7diMN5kA5PYN3e4tyvriwu8t0V/live_megamalcolm
-rtmp://198.255.17.42:1935/live?5KfH856AaZuk21He8SWQFJd8VN7LBFZl/live_megafuturama
-rtmp://198.255.17.42:1935/live?5KfH856AaZuk21He8SWQFJd8VN7LBFZl/live_mega_simpson
-rtmp://198.255.17.42:1935/live?S8ABru5M3gXiOjy5XeNnTVlwFfszwQ05/live_mega_naruto
-rtmp://198.255.17.42:1935/live?S8ABru5M3gXiOjy5XeNnTVlwFfszwQ05/live_mega_revolucionhd
-rtmp://198.255.17.42:1935/live?S8ABru5M3gXiOjy5XeNnTVlwFfszwQ05/live_mega_kids
-rtmp://198.255.17.18:443/live?icqFF2QvrQpBfjhgM4PkPLX53UH9968s/live_mega_bigbang
-rtmp://198.255.17.26:1935/live?icqFF2QvrQpBfjhgM4PkPLX53UH9968s/live_mega_bot
-rtmp://198.255.17.34:1935/live?GLEpHgN4XY5V82Kglbtv3n0wyS01Dt1c/live_mega_evolucionhd
-rtmp://198.255.17.26:1935/live?GLEpHgN4XY5V82Kglbtv3n0wyS01Dt1c/live_max_anime
-rtmp://198.255.17.18:443/live?8bV9lEx7QLt3fUf10SufyKnC9vAEGxg2/live_mega_extremo
-rtmp://198.255.17.26:1935/live?W1q0m11UemmmH50vuyE8VugM35Kq9T44/live_lcreme_staff
-rtmp://198.255.17.18:443/live?J4uOby9PrOEMhl412UjtPF0ap6vvw92O/live_mega_animes
-rtmp://198.255.17.26:1935/live?7wnUVbdUejdI7uvRuE3pTfGsikoecQD6/live_katyhd
-rtmp://198.255.17.26:1935/live?0Ca0NMqkMApWlvqlZEbfCJbwX4Yi13E4/live_futurama_mania
-rtmp://198.255.17.26:1935/live?0Ca0NMqkMApWlvqlZEbfCJbwX4Yi13E4/live_el_yamato
-rtmp://198.255.17.34:1935/live?kjPLc2UFqfbvf3BAUlhsxq6d2tZ6mnFJ/live_dr_daniel_jackson
-rtmp://198.255.17.18:443/live?r4wmKd0Fply0Egus33AikOBCNO1WAfKO/live_cremecartoon
-rtmp://198.255.17.18:443/live?WFUXbV6vD1E8EOeejqlGXU2GgFUZkyPf/live_cinescape
-rtmp://198.255.17.18:443/live?WFUXbV6vD1E8EOeejqlGXU2GgFUZkyPf/live_chespirito_mania
-rtmp://198.255.17.42:1935/live?LVjX0WOBJjxkXWnrtbVu0WYM0ZHCquMr/live_beto_5
-rtmp://198.255.17.26:1935/live?Xp32V8IO535tNdUBpQtBGGmxBIREbxKz/live_zonafilms
-rtmp://198.255.17.34:1935/live?LVjX0WOBJjxkXWnrtbVu0WYM0ZHCquMr/live_unimas24
-rtmp://198.255.17.26:1935/live?LVjX0WOBJjxkXWnrtbVu0WYM0ZHCquMr/live_alakran00
-rtmp://198.255.17.42:1935/live?rFo6H91g3JdGnVVY26DbsfFOyESGTL4d/live_mega_movieshd
+
