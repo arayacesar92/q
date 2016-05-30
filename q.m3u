@@ -19,8 +19,14 @@ rtmp://198.255.17.58:1935/live?SvhRDyV7UG6rn4WH8GXruh4UrNL0Ztjv/live_mfv_05
 rtmp://198.255.17.58:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_cinescape
 #EXTINF:-1,AXN
 rtmp://198.255.17.58:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_alakran00
+#EXTINF:-1,GOLDEN
+rtmp://198.255.17.58:1935/live?6pZ0yYJmRL7CxObNtByCSK0QuO5E08Ad/live_solozombie
+#EXTINF:-1,SPACE
+rtmp://198.255.17.58:1935/live?6pZ0yYJmRL7CxObNtByCSK0QuO5E08Ad/live_series_pelis
 #EXTINF:-1,FOX
 rtmp://198.255.17.58:1935/live?r76Gczn3nTGxEDTs5TyJYj8j6rF3K90H/live_mega_movieshd
+#EXTINF:-1,DE PELICULA
+rtmp://198.255.17.58:1935/live?6pZ0yYJmRL7CxObNtByCSK0QuO5E08Ad/live_pelis
 #EXTINF:-1,THE FILM ZONE
 rtmp://198.255.17.58:1935/live?SvhRDyV7UG6rn4WH8GXruh4UrNL0Ztjv/live_mega_extremo
 #EXTINF:-1,HBO
@@ -36,7 +42,9 @@ rtmp://198.255.17.58:1935/live?rfsQRtvR0u3xBNgMbdgUsHJBJjLDJh4C/live_lcrememax
 #EXTINF:-1,CINE
 rtmp://198.255.17.58:1935/live?HaCim5xleYGh9qSd7OSk41kkVrGsirHc/live_katyhd
 #EXTINF:-1,ISAT
-rtmp://198.255.17.58:1935/live?HaCim5xleYGh9qSd7OSk41kkVrGsirHc/live_bolivia
+rtmp://198.255.17.58:1935/live?9JDZQtJADzIueeZOn4ZF8rZzeLtMAkgw/live_vitatoseries
+#EXTINF:-1,HBO2
+rtmp://198.255.17.34:1935/live?6pZ0yYJmRL7CxObNtByCSK0QuO5E08Ad/live_animania
 #EXTINF:-1,DBZ
 rtmp://198.255.17.58:1935/live?HeZlGDgxji7FlrlYmOImrkK8t9ljWN0L/live_mega_animes
 #EXTINF:-1,DBZ2
