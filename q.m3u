@@ -13,47 +13,7 @@ http://live.hls.http.chv.ztreaming.com/chvhd/chvHi.m3u8
 http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1,C13 Cable
 http://cluster.13cmovil.ztreaming.com/13cm/grpz13c/playlist.m3u8
-#EXTINF:-1,HBO
-rtmp://198.255.17.42:1935/live?8ZQkxYWv3Fduwjm8jeOq5plHwnjV8NVd/live_seriespelis
-#EXTINF:-1,FOX
-rtmp://198.255.17.42:1935/live?ZlKEcBYI814lGGN6fVePaRyheGDKxd0S/live_vitatoseries
-#EXTINF:-1,The Film Zone
-rtmp://198.255.17.26:1935/live?R1MTsLsarHBYuRKVVK3mdiwZ49JSgpsa/live_solozombie
-#EXTINF:-1,Movie city
-rtmp://198.255.17.26:1935/live?RtkzcyPOJRHzjGwW6MzU6PFjOdKq3K46/live_mega_extremo
-#EXTINF:-1,FOX FAMILY
-rtmp://198.255.17.42:1935/live?RtkzcyPOJRHzjGwW6MzU6PFjOdKq3K46/live_megamovieshd
 #EXTINF:-1,Universal Movies
 rtmp://198.255.17.58:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_cinescape
-#EXTINF:-1, FX
-rtmp://198.255.17.58:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_animetoontv
 #EXTINF:-1,AXN
 rtmp://198.255.17.58:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_alakran00
-#EXTINF:-1,TNT+
-rtmp://198.255.26.34:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_cine_calidad
-#EXTINF:-1, ISAT
-rtmp://198.255.26.34:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_club_terror
-#EXTINF:-1,TNT 2
-rtmp://198.255.17.18:443/live?wrv2RIkKWb5XVrlw9YXtj30nYNQbVm3V/live_cremecartoon
-#EXTINF:-1,HBO2
-rtmp://198.255.17.34:1935/live?GvNDz0YJ4uPuQzTJZMQS9KwHZN46tMgr/live_300
-#EXTINF:-1,CINAMAX
-rtmp://198.255.17.42:1935/live?nQMQQJPT5gVH9Jg6NaSJxNWOG8nkkdSp/live_ochin1a
-#EXTINF:-1,HBO MOVIES
-rtmp://198.255.17.18:443/live?4Oy6SpPSmtQSeEWSrCRG8mj7iDpKeNEF/live_mega_bigbang
-#EXTINF:-1,HSTORY
-rtmp://198.255.17.42:1935/live?ZlKEcBYI814lGGN6fVePaRyheGDKxd0S/live_vitatoseries
-#EXTINF:-1,Dragon Ball Z 
-rtmp://198.255.17.18:443/live?YgktsGrka5YC9G5iRhrfGmzCoBl9njW0/live_mega_animes
-#EXTINF:-1,Dragon Ball z 2
-rtmp://198.255.17.26:1935/live?LQMtiuxFhSkNyT0cmEXv0PrJDXPkBb87/live_katyhd
-#EXTINF:-1,South Park live_mega_revolucionhd
-rtmp://198.255.17.26:1935/live?RtkzcyPOJRHzjGwW6MzU6PFjOdKq3K46/live_mega_revolucionhd
-#EXTINF:-1,Los simpsons 2
-rtmp://198.255.17.18:443/live?eKHTPTWFQFulglicsr8EKWv4aTkKjizw/live_animania
-#EXTINF:-1,Los Simpsons 
-rtmp://198.255.17.26:1935/live?RtkzcyPOJRHzjGwW6MzU6PFjOdKq3K46/live_mega_simpson
-#EXTINF:-1, Futurama 2
-rtmp://198.255.17.26:1935/live?LQMtiuxFhSkNyT0cmEXv0PrJDXPkBb87/live_futurama_mania
-#EXTINF:-1,Futurama
-rtmp://198.255.17.58:1935/live?eKHTPTWFQFulglicsr8EKWv4aTkKjizw/live_cineplatino
