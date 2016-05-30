@@ -27,3 +27,13 @@ rtmp://198.255.26.58:1935/live?6Cuunqb9wpoiO7Lrpqo2hdsBkV1elWjf/live_dr_daniel_j
 rtmp://198.255.17.58:1935/live?6Cuunqb9wpoiO7Lrpqo2hdsBkV1elWjf/live_cinescape
 #EXTINF:-1,TNT
 rtmp://198.255.17.58:1935/live?sd4csjLWpYHFRVWjHB8rUq4imO8yxKmB/live_broadmovies
+#EXTINF:-1,TNT+
+rtmp://198.255.17.58:1935/live?p1cavfEwIMCxqhSg3VftLymQbFBezfAn/live_thedogpound
+#EXTINF:-1,FOX FAMILY
+rtmp://198.255.17.58:1935/live?rfsQRtvR0u3xBNgMbdgUsHJBJjLDJh4C/live_lcrememax
+#EXTINF:-1,CINE
+rtmp://198.255.17.58:1935/live?HaCim5xleYGh9qSd7OSk41kkVrGsirHc/live_katyhd
+#EXTINF:-1,ISAT
+rtmp://198.255.17.58:1935/live?HaCim5xleYGh9qSd7OSk41kkVrGsirHc/live_bolivia
+#EXTINF:-1,FUTURAMA
+rtmp://198.255.17.58:443/live?rfsQRtvR0u3xBNgMbdgUsHJBJjLDJh4C/live_futurama_mania
