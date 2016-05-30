@@ -19,3 +19,5 @@ rtmp://198.255.17.58:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_cinescape
 rtmp://198.255.17.58:1935/live?P9fvYfmsSyKZHBnkAauWShx79FnmGdar/live_alakran00
 #EXTINF:-1,FOX
 rtmp://198.255.17.58:1935/live?r76Gczn3nTGxEDTs5TyJYj8j6rF3K90H/live_mega_movieshd
+#EXTINF:-1,HBO
+rtmp://198.255.17.18:443/live?FoHfTfOktCtuoZz1EJ0PYWsmS02IJYY4/live_300
