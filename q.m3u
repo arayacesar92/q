@@ -14,8 +14,6 @@ http://13.live.cdn.cl/13hddesktop/13hd-1250.m3u8
 #EXTINF:-1, CDO HD
 http://wow2.cl.digitalproserver.com/cdo/cdovivo/cdo.smil/chunklist_w913906597_b1064000.m3u8
 #EXTINF:-1 group-title="PELICULAS TOTAL PLAY" tvg-logo="http://images3.static-bluray.com/movies/covers/573_front.jpg",El Aviador
-http://200.76.77.237/VOD/H01/HD/WBK0197DS/04.m3u8?
-#EXTINF:-1 group-title="PELICULAS TOTAL PLAY" tvg-logo="http://images3.static-bluray.com/movies/covers/573_front.jpg",El Aviador
 http://200.76.77.237/VOD/H01/HD/WBK0197DS/02.m3u8?
 #EXTINF:-1 group-title="PELICULAS TOTAL PLAY" tvg-logo="http://www.bluraysv.com/dvd_general/AMERICAN%20OUTLAWS.jpg",Renegados Americanos
 http://200.76.77.237/VOD/H01/SD/renegados_AMericanos/02.m3u8?
